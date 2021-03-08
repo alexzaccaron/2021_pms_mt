@@ -1,6 +1,6 @@
 
 library(seqinr)
-library(knitr)
+#library(knitr)
 
 #GIVE THE SEQUENCE FILE (SINGLE SEQUENCE IN FASTA) AND A NAME TO PLOT
 # Rscript plot_gc_hist.R myseq.fasta myseq.pdf
@@ -30,7 +30,7 @@ hist(GCarray, seq(0,1,by=0.02), freq=FALSE, col="grey80", ylim=c(0,10), xlim=c(0
 axis(1)
 axis(2, las=2)
 box()
-lines(density(GCarray), lwd=2.5, col="red")
+lines(density(GCarray, na.rm = TRUE), lwd=2.5, col="red")
 dev.off()
 
-plot_crop(plotfile)
+#plot_crop(plotfile)
