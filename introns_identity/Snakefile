@@ -1,0 +1,4 @@
+
+rule theone:
+   conda: "env.yml"
+   shell: "Rscript pairwise_alignments.R"
