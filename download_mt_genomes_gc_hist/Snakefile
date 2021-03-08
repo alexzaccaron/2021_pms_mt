@@ -1,0 +1,32 @@
+import pandas as pd
+
+samples_df = pd.read_table('table_mt_genomes.txt').set_index("GenBank accession", drop=False)
+SAMPLES = list(samples_df['GenBank accession'])
+
+
+
+rule download_all:
+    input:
+        expand("mtgenomes/{sample}.fasta", sample=SAMPLES),
+        expand("mtgenomes_gc_hists/{sample}.pdf", sample=SAMPLES)
+
+
+# rule to download each individual file specified in samples_df
+rule download_reads:
+    conda: "env.yml"
+    output: "mtgenomes/{sample}.fasta"     
+    shell: """
+        mkdir -p mtgenomes
+        efetch -db nuccore -id {wildcards.sample} -format fasta > {output}
+        sleep 0.2s
+        """
+
+
+rule plot_GC_hist:
+   conda: "env.yml"
+   input: "mtgenomes/{sample}.fasta" 
+   output: "mtgenomes_gc_hists/{sample}.pdf"
+   shell: """
+      mkdir -p mtgenomes_gc_hists
+      Rscript plot_gc_hist.R {input} {output}
+   """

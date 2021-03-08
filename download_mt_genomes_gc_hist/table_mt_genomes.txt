@@ -1,0 +1,787 @@
+GenBank accession	TaxID	Organism	Description	Length	Phylum	Class	Order	Family	Genus	Genetic code	GC%	Percentage genome with GC50
+NC_014337.1	561895	Candida subhashii	Candida subhashii mitochondrion, complete genome	29795	Ascomycota	Saccharomycetes	Saccharomycetales	Candida		4	52.6566	75.2525
+KC993184.1	561895	Candida subhashii	Candida subhashii strain FR-392-06-SUB1 mitochondrion, complete genome	28562	Ascomycota	Saccharomycetes	Saccharomycetales	Candida		4	52.6281	76.8421
+NC_022174.1	271359	Candida gigantensis	Candida gigantensis strain NRRL Y-27736 mitochondrion, complete genome	55125	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	52.1253	68.6649
+MK292656.1	286115	Synchytrium endobioticum	Synchytrium endobioticum strain 01WS mitochondrion, complete genome	72938	Chytridiomycota	Chytridiomycetes	Synchytriales	Synchytriaceae	Synchytrium	16	49.6049	45.679
+MK292655.1	286115	Synchytrium endobioticum	Synchytrium endobioticum strain NED01 mitochondrion, complete genome	72868	Chytridiomycota	Chytridiomycetes	Synchytriales	Synchytriaceae	Synchytrium	16	49.5863	44.5361
+MK292697.1	286115	Synchytrium endobioticum	Synchytrium endobioticum strain PER03 mitochondrion, complete genome	72814	Chytridiomycota	Chytridiomycetes	Synchytriales	Synchytriaceae	Synchytrium	16	49.5533	45.567
+NC_042370.1	286115	Synchytrium endobioticum	Synchytrium endobioticum strain FERA1 mitochondrion, complete genome	72775	Chytridiomycota	Chytridiomycetes	Synchytriales	Synchytriaceae	Synchytrium	16	49.5244	45.567
+NC_024094.1	1232584	Magnusiomyces tetraspermus	Magnusiomyces tetrasperma mitochondrion, complete genome	44469	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Magnusiomyces	3	48.6892	48.9865
+MT880591	62690	Blumeria graminis f. sp. tritici	NA	108900	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	Blumeria	4	48.28	52.6
+NC_022144.1	658196	Glomus cerebriforme	Glomus cerebriforme voucher DAOM:227022 mitochondrion, complete genome	59633	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Glomus	4	46.7422	31.9899
+MT880590	62708	Golovinomyces cichoracearum	NA	332165	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	Golovinomyces	4	45.06	45.9
+NC_016684.1	4874	Gigaspora margarita	Gigaspora margarita mitochondrion, complete genome	96998	Mucoromycota	Glomeromycetes	Diversisporales	Gigasporaceae	Gigaspora	4	45.0268	17.8019
+NC_016985.1	44941	Gigaspora rosea	Gigaspora rosea mitochondrion, complete genome	97350	Mucoromycota	Glomeromycetes	Diversisporales	Gigasporaceae	Gigaspora	NA	44.8272	15.8951
+MG720066.1	2250278	Usnea subgracilis	Usnea subgracilis voucher 48717 mitochondrion, complete genome	94464	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Usnea	4	43.5623	8.42607
+NC_003048.1	82268	Hyaloraphidium curvatum	Hyaloraphidium curvatum mitochondrion, complete genome	29593	Chytridiomycota	Monoblepharidomycetes	Monoblepharidales	Hyaloraphidium		4	43.1641	13.198
+NC_029745.1	337075	Pyronema omphalodes	Pyronema omphalodes strain CBS 100304 culture-collection CBS:100304 mitochondrion, complete genome	191189	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	Pyronema	4	42.9765	23.2339
+KT371477.1	27381	Funneliformis mosseae	UNVERIFIED: Funneliformis mosseae mitochondrion sequence	134581	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Funneliformis	4	42.8815	12.932
+NC_042880.1	246404	Chytriomyces confervae	Chytriomyces confervae culture CBS:675.73 strain CBS 675.73 mitochondrion, complete genome	225604	Chytridiomycota	Chytridiomycetes	Chytridiales	Chytriomycetaceae	Chytriomyces	16	42.2611	3.52394
+NC_039633.1	143885	Usnea mutabilis	Usnea mutabilis mitochondrion, complete genome	61314	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Usnea	4	41.3301	3.18627
+MH725797.1	1916073	Termitomyces sp.	Termitomyces sp. strain T32 mitochondrion, complete genome	131333	Basidiomycota	Agaricomycetes	Agaricales	Lyophyllaceae	Termitomyces	4	40.925	26.9714
+HF558455.1	1246992	Rhodotorula taiwanensis RS1	Rhodotorula taiwanensis RS1, complete mitochondrial genome	40392	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	4	40.8897	2.23048
+MG720812.1	2233981	Usnea subfusca	UNVERIFIED: Usnea subfusca mitochondrion sequence	52486	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Usnea	4	40.5884	1.14613
+NC_036340.1	5537	Rhodotorula mucilaginosa	Rhodotorula mucilaginosa strain RIT389 mitochondrion, complete genome	47023	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	4	40.4366	0.319489
+NC_045397.1	1174673	Morchella importuna	Morchella importuna mitochondrion, complete genome	272238	Ascomycota	Pezizomycetes	Pezizales	Morchellaceae	Morchella	4	39.9489	17.6957
+NC_001715.1	28583	Allomyces macrogynus	Allomyces macrogynus mitochondrion, complete genome	57473	Blastocladiomycota	Blastocladiomycetes	Blastocladiales	Blastocladiaceae	Allomyces	4	39.4917	12.7937
+NC_004624.1	224130	Monoblepharella sp. JEL15	Monoblepharella sp. JEL15 mitochondrion, complete genome	60432	Chytridiomycota	Monoblepharidomycetes	Monoblepharidales	Monoblepharidaceae	Monoblepharella	NA	39.3566	7.71144
+MH725799.1	1916073	Termitomyces sp.	Termitomyces sp. strain T159 mitochondrion, partial genome	157156	Basidiomycota	Agaricomycetes	Agaricales	Lyophyllaceae	Termitomyces	4	39.3333	16.3324
+NC_039747.1	4979	Hannaella oryzae	Hannaella oryzae mitochondrion, complete genome	26444	Basidiomycota	Tremellomycetes	Tremellales	Bulleribasidiaceae	Hannaella	4	39.0076	0.568182
+NC_035940.1	142670	Usnea ceratina	Usnea ceratina mitochondrion, complete genome	65539	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Usnea	4	38.893	1.37615
+KY321923.1	2033593	Usnea pennsylvanica	UNVERIFIED: Usnea pennsylvanica mitochondrion sequence	80874	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Usnea	4	38.8609	0.742115
+NC_044971.1	36659	Volvariella volvacea	Volvariella volvacea strain v8 mitochondrion, complete genome	65668	Basidiomycota	Agaricomycetes	Agaricales	Pluteaceae	Volvariella	4	38.4943	11.4416
+NC_039442.1	117070	Tephrocybe rancida	Tephrocybe rancida strain TRssc25 mitochondrion, complete genome	126794	Basidiomycota	Agaricomycetes	Agaricales	Lyophyllaceae	Tephrocybe	4	38.2959	17.9882
+KJ459953.1	43963	Magnusiomyces magnusii	Magnusiomyces magnusii mitochondrion, complete genome	40657	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Magnusiomyces	4	38.1796	3.32103
+NC_020043.1	43963	Magnusiomyces magnusii	Magnusiomyces magnusii mitochondrion, complete genome	42757	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Magnusiomyces	4	38.1778	1.75439
+MF422650.1	64657	Tremella fuciformis	Tremella fuciformis isolate TF06 mitochondrion, complete genome	36670	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	4	38.1721	1.22951
+MF422649.1	64657	Tremella fuciformis	Tremella fuciformis isolate TF05 mitochondrion, complete genome	49177	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	4	38.1162	1.52905
+MF422648.1	64657	Tremella fuciformis	Tremella fuciformis isolate TF04 mitochondrion, complete genome	40586	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	4	37.9235	1.48148
+MF422655.1	64657	Tremella fuciformis	Tremella fuciformis isolate TF12 mitochondrion, complete genome	40587	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	4	37.921	1.48148
+MF422653.1	64657	Tremella fuciformis	Tremella fuciformis isolate TF09 mitochondrion, complete genome	36682	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	4	37.9044	0.409836
+MF422656.1	64657	Tremella fuciformis	Tremella fuciformis isolate TF15 mitochondrion, complete genome	40104	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	4	37.8926	0
+MF422651.1	64657	Tremella fuciformis	Tremella fuciformis isolate TF07 mitochondrion, complete genome	38983	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	4	37.8559	0.772201
+NC_027730.1	4837	Phycomyces blakesleeanus	Phycomyces blakesleeanus strain NRRL 1555 mitochondrion, complete genome	62082	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	4	37.8402	13.0751
+MF422654.1	64657	Tremella fuciformis	Tremella fuciformis isolate TF11 mitochondrion, complete genome	40338	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	4	37.8358	0.373134
+MH725795.1	1916073	Termitomyces sp.	Termitomyces sp. strain Mi166 mitochondrion, complete genome	239317	Basidiomycota	Agaricomycetes	Agaricales	Lyophyllaceae	Termitomyces	4	37.8178	16.5517
+MF422652.1	64657	Tremella fuciformis	Tremella fuciformis isolate TF08 mitochondrion, complete genome	38529	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	4	37.6953	0.78125
+NC_036422.1	64657	Tremella fuciformis	Tremella fuciformis isolate TF01 mitochondrion, complete genome	35058	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	4	37.6137	0.429185
+KU127234.1	588596	Rhizophagus irregularis	Rhizophagus irregularis strain C2 mitochondrion, complete genome	73979	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Rhizophagus	4	37.5375	1.21704
+NC_044121.1	181123	Austropuccinia psidii	Austropuccinia psidii isolate MF-1 mitochondrion, complete genome	93299	Basidiomycota	Pucciniomycetes	Pucciniales	Sphaerophragmiaceae	Austropuccinia	4	37.4772	1.44928
+NC_044103.1	208348	Puccinia triticina	Puccinia triticina isolate HnZU18-3 mitochondrion, complete genome	77894	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	Puccinia	4	37.4348	1.15607
+MK292693.1	109895	Powellomyces hirtus	Powellomyces hirtus mitochondrion, partial genome	160309	Chytridiomycota	Chytridiomycetes	Spizellomycetales	Powellomycetaceae	Powellomyces	16	37.3702	8.5206
+JX993114.1	588596	Rhizophagus irregularis	Rhizophagus irregularis isolate DAOM-234328 mitochondrion, complete genome	68994	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Rhizophagus	4	37.2956	1.08932
+JQ514223.2	588596	Rhizophagus irregularis	Rhizophagus irregularis culture-collection MUCL:46239 mitochondrion, complete genome	70820	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Rhizophagus	4	37.2387	0.635593
+NC_014489.1	588596	Rhizophagus irregularis	Glomus irregulare mitochondrion, complete genome	70800	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Rhizophagus	4	37.2017	1.27389
+NC_012056.1	4876	Rhizophagus intraradices	Glomus intraradices mitochondrion, complete genome	70606	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Rhizophagus	4	37.1858	0.851064
+KU127231.1	588596	Rhizophagus irregularis	Rhizophagus irregularis strain A1 mitochondrion, complete genome	70604	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Rhizophagus	4	37.1759	0.638298
+NC_029185.1	47032	Rhizophagus fasciculatus	Rhizophagus fasciculatus isolate DAOM240159 mitochondrion, complete genome	72251	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Rhizophagus	4	37.1421	0.623701
+KU162859.1	588596	Rhizophagus irregularis	Rhizophagus irregularis strain A4 mitochondrion, complete genome	77539	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Rhizophagus	4	37.0879	1.16279
+JX065416.1	1264587	Glomus sp. DAOM 229456	Glomus sp. DAOM 229456 mitochondrion, complete genome	87763	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Glomus	4	37.0234	0.854701
+JQ514224.2	588596	Rhizophagus irregularis	Rhizophagus irregularis culture-collection MUCL:43204 mitochondrion, complete genome	87755	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Rhizophagus	4	37.0234	0.17094
+NC_022160.1	5482	Candida tropicalis	Candida tropicalis strain CBS 94 mitochondrion, complete genome	54610	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	36.9542	0.549451
+MF289181.1	294747	Candida tropicalis MYA-3404	UNVERIFIED: Candida tropicalis MYA-3404 mitochondrion sequence	43581	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	36.8736	0.344828
+MK292694.1	109895	Powellomyces hirtus	Powellomyces hirtus mitochondrion, partial genome	116465	Chytridiomycota	Chytridiomycetes	Spizellomycetales	Powellomycetaceae	Powellomyces	16	36.7302	6.4433
+KC164355.1	1281822	Glomus sp. DAOM 240422	Glomus sp. DAOM 240422 mitochondrion, complete genome	86170	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Glomus	4	36.705	0.522648
+HF546977.1	1108050	Rhizoctonia solani AG-1 IB	Rhizoctonia solani strain AG-1 IB complete mitochondrial genome, isolate 7/3/14	162751	Basidiomycota	Agaricomycetes	Cantharellales	Ceratobasidiaceae	Rhizoctonia	4	36.4123	4.0553
+NC_045202.1	201230	Macrolepiota fuliginosa	Macrolepiota fuliginosa strain SLZ21 mitochondrion, complete genome	59025	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	Macrolepiota	4	36.3511	13.2316
+MG519331.1	5630	Laetiporus sulphureus	UNVERIFIED: Laetiporus sulphureus mitochondrion sequence	101111	Basidiomycota	Agaricomycetes	Polyporales	Laetiporaceae	Laetiporus	4	36.3017	0.74184
+NC_004623.1	224131	Harpochytrium sp. JEL105	Harpochytrium sp. JEL105 mitochondrion, complete genome	24169	Chytridiomycota	Monoblepharidomycetes	Monoblepharidales	Harpochytriaceae	Harpochytrium	4	36.2236	1.86335
+KY213951.1	5141	Neurospora crassa	Neurospora crassa mitochondrion, complete genome	64850	Ascomycota	Sordariomycetes	Sordariales	Sordariaceae	Neurospora	4	36.1574	10.1852
+NC_026614.1	367110	Neurospora crassa OR74A	Neurospora crassa OR74A mitochondrion, complete genome	64840	Ascomycota	Sordariomycetes	Sordariales	Sordariaceae	Neurospora	4	36.1404	12.037
+KY498477.1	5141	Neurospora crassa	Neurospora crassa mitochondrion, complete genome	64687	Ascomycota	Sordariomycetes	Sordariales	Sordariaceae	Neurospora	4	36.0882	10.6729
+LT558140.1	307758	Ustilago bromivora	Ustilago bromivora strain UB2112 genome assembly, organelle: mitochondrion	177540	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Ustilago	4	35.987	2.70499
+NC_021436.1	456999	Rhizoctonia solani	Rhizoctonia solani strain AG3 Rhs1AP mitochondrion, complete genome	235849	Basidiomycota	Agaricomycetes	Cantharellales	Ceratobasidiaceae	Rhizoctonia	4	35.9037	4.70738
+NC_004760.1	109764	Harpochytrium sp. JEL94	Harpochytrium sp. JEL94 mitochondrion, complete genome	19473	Chytridiomycota	Monoblepharidomycetes	Monoblepharidales	Harpochytriaceae	Harpochytrium	4	35.3695	0
+NC_011360.1	4808	Blastocladiella emersonii	Blastocladiella emersonii mitochondrion, complete genome	36503	Blastocladiomycota	Blastocladiomycetes	Blastocladiales	Blastocladiaceae	Blastocladiella	4	35.1001	1.64609
+NC_004336.1	178876	Cryptococcus neoformans var. grubii	Cryptococcus neoformans var. grubii mitochondrion, complete genome	24874	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Cryptococcus	4	35.0061	0
+NC_018792.1	235443	Cryptococcus neoformans var. grubii H99	Cryptococcus neoformans var. grubii H99 mitochondrion, complete genome	24919	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Cryptococcus	4	34.9799	0.60241
+CP022335.1	178876	Cryptococcus neoformans var. grubii	Cryptococcus neoformans var. grubii strain KN99 mitochondrion, complete genome	24923	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Cryptococcus	4	34.9759	0
+NC_014352.1	169999	Phakopsora meibomiae	Phakopsora meibomiae mitochondrion, complete genome	32520	Basidiomycota	Pucciniomycetes	Pucciniales	Phakopsoraceae	Phakopsora	4	34.8549	0
+NC_039440.1	530045	Blastosporella zonata	Blastosporella zonata strain Bzo6 mitochondrion, complete genome	200401	Basidiomycota	Agaricomycetes	Agaricales	Tricholomataceae	Blastosporella	4	34.7954	8.00898
+KX885104.1	474922	Colletotrichum gloeosporioides	Colletotrichum gloeosporioides strain LQ33 mitochondrion, complete genome	55169	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	4	34.5668	10.0817
+NC_014344.1	170000	Phakopsora pachyrhizi	Phakopsora pachyrhizi mitochondrion, complete genome	31825	Basidiomycota	Pucciniomycetes	Pucciniales	Phakopsoraceae	Phakopsora	4	34.566	0
+NC_044677.1	1156444	Phellinus lamaoensis	Phellinus lamaoensis strain FFPRI411162 mitochondrion, complete genome	45604	Basidiomycota	Agaricomycetes	Hymenochaetales	Hymenochaetaceae	Phellinus	4	34.5482	6.90789
+MH725796.1	1916073	Termitomyces sp.	Termitomyces sp. strain T13 mitochondrion, complete genome	155430	Basidiomycota	Agaricomycetes	Agaricales	Lyophyllaceae	Termitomyces	4	34.518	5.21236
+NC_027509.1	54899	Diaporthe longicolla	Diaporthe longicolla mitochondrion, complete genome	53439	Ascomycota	Sordariomycetes	Diaporthales	Diaporthaceae	Diaporthe	4	34.3689	6.46067
+KX885105.1	1215731	Colletotrichum aenigma	Colletotrichum aenigma strain XY15 mitochondrion, complete genome	57252	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	4	34.2852	10.7612
+KX885098.1	690259	Colletotrichum siamense	Colletotrichum siamense strain ZH02 mitochondrion, complete genome	54679	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	4	34.2509	9.06593
+KX885099.1	690259	Colletotrichum siamense	Colletotrichum siamense strain ZH03 mitochondrion, complete genome	54658	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	4	34.1044	10.1648
+KR809877.1	29924	Mucor circinelloides f. lusitanicus	Mucor circinelloides f. lusitanicus strain CBS 277.49 mitochondrion, complete genome	31831	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	4	34.0912	1.41509
+NC_024200.1	549293	Lichtheimia hongkongensis	Lichtheimia hongkongensis mitochondrion, complete genome	31830	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Lichtheimia	4	34.0912	1.41509
+KX034082.1	690256	Colletotrichum fructicola	Colletotrichum fructicola mitochondrion, complete genome	56051	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	4	34.0518	10.7239
+MT880589	36044	Erysiphe pisi	NA	188623	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	Erysiphe	4	34	3.71
+KY575054.1	1940568	Juglanconis oblonga	UNVERIFIED: Juglanconis oblonga isolate AR4414 mitochondrion sequence	193644	Ascomycota	Sordariomycetes	Diaporthales	Juglanconidaceae	Juglanconis	4	33.9127	3.25581
+MT880588	52586	Erysiphe necator	NA	188577	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	Erysiphe	4	33.86	2.91
+KX885101.1	690259	Colletotrichum siamense	Colletotrichum siamense strain LQ22 mitochondrion, complete genome	58666	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	4	33.8431	8.4399
+NC_020353.1	288795	Microbotryum lychnidis-dioicae	Microbotryum lychnidis-dioicae strain MvSl135HT1 mitochondrion, complete genome	107808	Basidiomycota	Microbotryomycetes	Microbotryales	Microbotryaceae	Microbotryum	4	33.7512	0.278552
+KY575056.1	1940568	Juglanconis oblonga	UNVERIFIED: Juglanconis oblonga isolate MAFF410216 mitochondrion sequence	181422	Ascomycota	Sordariomycetes	Diaporthales	Juglanconidaceae	Juglanconis	4	33.6581	2.81224
+KY575057.1	1940567	Juglanconis juglandina	UNVERIFIED: Juglanconis juglandina isolate CBS 121083 mitochondrion sequence	267504	Ascomycota	Sordariomycetes	Diaporthales	Juglanconidaceae	Juglanconis	4	33.6575	1.73864
+KY911090.1	223818	Malassezia japonica	Malassezia japonica culture CBS:9431 mitochondrion, complete genome	28009	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	33.3154	0
+NC_044678.1	175648	Coniferiporia sulphurascens	Coniferiporia sulphurascens strain FP133613(A)Sp mitochondrion, complete genome	58959	Basidiomycota	Agaricomycetes	Hymenochaetales	Hymenochaetaceae	Coniferiporia	4	33.179	2.79898
+MN623378.1	2046349	Cryptococcus sp. (in: Fungi)	Cryptococcus sp. (in: Fungi) mitochondrion, complete genome	30029	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Cryptococcus	4	33.1767	0
+MH725798.1	1916073	Termitomyces sp.	Termitomyces sp. strain T123 mitochondrion, complete genome	124711	Basidiomycota	Agaricomycetes	Agaricales	Lyophyllaceae	Termitomyces	4	33.055	4.5728
+KY575058.1	218668	Ophiognomonia clavigignenti-juglandacearum	UNVERIFIED: Ophiognomonia clavigignenti-juglandacearum isolate ATCC36624 mitochondrion sequence	175297	Ascomycota	Sordariomycetes	Diaporthales	Gnomoniaceae	Ophiognomonia	4	32.9532	1.45548
+KY575055.1	2041886	Juglanconis sp.	UNVERIFIED: Juglanconis sp. isolate DMW523 mitochondrion sequence	186787	Ascomycota	Sordariomycetes	Diaporthales	Juglanconidaceae	Juglanconis	4	32.7834	1.5261
+NC_020354.1	1288119	Microbotryum cf. violaceum BFL-2013	Microbotryum cf. violaceum BFL-2013 mitochondrion, complete genome	92107	Basidiomycota	Microbotryomycetes	Microbotryales	Microbotryaceae	Microbotryum	4	32.7655	0.325733
+JX910421.1	117187	Fusarium verticillioides	Gibberella moniliformis mitochondrion, partial genome	53781	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	32.6313	0.558659
+NC_016687.1	117187	Fusarium verticillioides	Gibberella moniliformis mitochondrion, complete genome	53753	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	32.6071	0.837989
+JX910420.1	5127	Fusarium fujikuroi	Fusarium fujikuroi mitochondrion, partial genome	46761	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	32.4502	0.96463
+MN259515.1	299031	Fusarium oxysporum f. sp. lactucae	Fusarium oxysporum f. sp. lactucae strain 09-002 mitochondrion, complete genome	45020	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	32.4222	0.333333
+NC_036106.1	249398	Fusarium commune	Fusarium commune strain JCM11502 complete mitochondrion genome	47526	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	32.4177	0.316456
+KC993188.1	5476	Candida albicans	Candida albicans strain CBS 562 mitochondrion, complete genome	40177	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	32.2647	0.374532
+LT906306.1	5507	Fusarium oxysporum	TPA_asm: Fusarium oxysporum strain Fo47 complete mitochondrion genome	47547	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	32.2278	0
+NC_002653.1	237561	Candida albicans SC5314	Candida albicans SC5314 mitochondrion, complete genome	40420	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	32.1834	0.743494
+NC_023248.1	542766	Jaminaea angkorensis	Jaminaea angkorensis mitochondrion, complete genome	29999	Basidiomycota	Exobasidiomycetes	Microstromatales	Jaminaea		4	32.1508	0.502513
+LT906334.1	120297	Fusarium oxysporum f. sp. niveum	TPA_asm: Fusarium oxysporum f. sp. niveum strain Fon002 complete mitochondrion genome	45677	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	32.1206	0.657895
+KY911096.1	76777	Malassezia sympodialis	Malassezia sympodialis culture CBS:96806 mitochondrion, complete genome	38538	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	32.1146	0
+KY911095.1	76777	Malassezia sympodialis	Malassezia sympodialis culture CBS:44340 mitochondrion, complete genome	38614	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	32.1064	0
+LT671829.1	1230383	Malassezia sympodialis ATCC 42132	Malassezia sympodialis ATCC 42132 genome assembly, organelle: mitochondrion	38623	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	32.096	0
+HF558646.1	1230383	Malassezia sympodialis ATCC 42132	Malassezia sympodialis ATCC 42132 complete mitochondrial genome	38622	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	32.096	0
+KT428651.1	5116	Cryphonectria parasitica	Cryphonectria parasitica mitochondrion, complete genome	158413	Ascomycota	Sordariomycetes	Diaporthales	Cryphonectriaceae	Cryphonectria	4	32.0448	1.04167
+NC_025200.1	77105	Sclerotinia borealis	Sclerotinia borealis strain F-4128 mitochondrion, complete genome	203051	Ascomycota	Leotiomycetes	Helotiales	Sclerotiniaceae	Sclerotinia	4	32.0118	0.369549
+LT571433.1	1229665	Fusarium oxysporum f. sp. cubense race 4	TPA_asm: Fusarium oxysporum f. sp. cubense race 4 strain B2 complete mitochondrion genome	49697	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	31.9899	0.60423
+MH374028.1	1047171	Zymoseptoria tritici	Zymoseptoria tritici isolate IPO323 mitochondrion, complete genome	43947	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Zymoseptoria	4	31.9703	0.342466
+NC_010222.1	1047171	Zymoseptoria tritici	Mycosphaerella graminicola mitochondrion, complete genome	43964	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Zymoseptoria	4	31.9431	0.341297
+NC_025928.1	569362	Fusarium gerlachii	Fusarium gerlachii strain CBS 123666 culture-collection CBS:123666 mitochondrion, complete genome	93428	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	31.9143	0.803859
+KR952337.1	5507	Fusarium oxysporum	Fusarium oxysporum strain UASWS AC1 mitochondrion, complete genome	51536	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	31.9086	0.874636
+NC_044490.1	2600298	Fusarium bambusae	Fusarium bambusae strain 5137 mitochondrion, complete genome	63593	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	31.907	0.472813
+NC_005927.1	153609	Moniliophthora perniciosa	Moniliophthora perniciosa mitochondrion, complete genome	109103	Basidiomycota	Agaricomycetes	Agaricales	Marasmiaceae	Moniliophthora	4	31.8753	12.5172
+NC_042219.1	39966	Hypsizygus marmoreus	Hypsizygus marmoreus mitochondrion, complete genome	102752	Basidiomycota	Agaricomycetes	Agaricales	Lyophyllaceae	Hypsizygus	4	31.8618	4.9635
+NC_009493.1	5518	Fusarium graminearum	Fusarium graminearum mitochondrion, complete genome	95676	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	31.8409	2.04082
+NC_037233.1	1903189	Alectoria fallacina	Alectoria fallacina voucher NYBG:Lendemer 46255 mitochondrion, complete genome	75417	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Alectoria	4	31.822	0.796813
+MF155191.1	5507	Fusarium oxysporum	Fusarium oxysporum isolate mh2-2 mitochondrion, complete genome	46026	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	31.8061	0.653595
+NC_003052.1	109760	Spizellomyces punctatus	Spizellomyces punctatus mitochondrion chromosome 1, complete sequence	58830	Chytridiomycota	Chytridiomycetes	Spizellomycetales	Spizellomycetaceae	Spizellomyces	16	31.7908	0.255102
+NC_018046.1	5476	Candida albicans	Candida albicans strain L757 mitochondrion, complete genome	33928	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	31.7434	0
+MH746465.1	39966	Hypsizygus marmoreus	UNVERIFIED: Hypsizygus marmoreus mitochondrion sequence	106417	Basidiomycota	Agaricomycetes	Agaricales	Lyophyllaceae	Hypsizygus	4	31.7395	4.65444
+MF774813.1	5353	Lentinula edodes	Lentinula edodes strain YAASM363 mitochondrion, complete genome	115116	Basidiomycota	Agaricomycetes	Agaricales	Omphalotaceae	Lentinula	4	31.7384	9.90874
+NC_039439.1	117018	Asterophora parasitica	Asterophora parasitica strain AP01 mitochondrion, complete genome	43328	Basidiomycota	Agaricomycetes	Agaricales	Lyophyllaceae	Asterophora	4	31.706	12.1528
+NC_026993.1	5516	Fusarium culmorum	Fusarium culmorum strain CBS 139512 mitochondrion, complete genome	103844	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	31.6734	0.722543
+CP033157.1	425264	Malassezia restricta CBS 7877	Malassezia restricta CBS 7877 mitochondrion, complete genome	33603	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	31.5208	0
+LT906357.1	660031	Fusarium oxysporum PHW808	TPA_asm: Fusarium oxysporum PHW808 strain NRRL54008 complete mitochondrion genome	50023	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	31.4855	0.3003
+NC_022681.1	48490	Fusarium circinatum	Fusarium circinatum mitochondrion, complete genome	67109	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	31.4437	0.447427
+NC_022153.1	434039	Candida buenavistaensis	Candida buenavistaensis strain NRRL Y-27734 mitochondrion, complete genome	46389	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	31.4412	3.8835
+NC_015893.1	759272	Chaetomium thermophilum var. thermophilum DSM 1495	Chaetomium thermophilum var. thermophilum DSM 1495 mitochondrion, complete genome	127206	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Chaetomium	4	31.4355	2.83019
+LT906337.1	120297	Fusarium oxysporum f. sp. niveum	TPA_asm: Fusarium oxysporum f. sp. niveum strain Fon013 complete mitochondrion genome	50795	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	31.4103	0
+NC_039455.1	76775	Malassezia restricta	Malassezia restricta mitochondrion, complete genome	38720	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	31.4083	0
+NC_039655.1	168172	Puccinia striiformis f. sp. tritici	Puccinia striiformis f. sp. tritici isolate CYR32 mitochondrion, complete genome	101521	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	Puccinia	4	31.3935	1.77515
+MG783568.1	2136985	Termitomyces sp. T132	Termitomyces sp. T132 mitochondrion, complete genome	146712	Basidiomycota	Agaricomycetes	Agaricales	Lyophyllaceae	Termitomyces	4	31.347	0.920245
+MK163638.1	38448	Monilinia fructicola	UNVERIFIED: Monilinia fructicola mitochondrion sequence	163790	Ascomycota	Leotiomycetes	Helotiales	Sclerotiniaceae	Monilinia	4	31.2942	0.183318
+KY911092.1	77020	Malassezia pachydermatis	Malassezia pachydermatis culture CBS:1879 mitochondrion, complete genome	35527	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	31.274	0
+NC_029194.1	192010	Fusarium mangiferae	Fusarium mangiferae mitochondrion, complete genome	30629	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	31.2549	0.490196
+NC_008368.1	5270	Ustilago maydis	Ustilago maydis mitochondrion, complete genome	56814	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Ustilago	4	31.2275	0
+NC_020148.1	5308	Phlebia radiata	Phlebia radiata strain 79 mitochondrion, complete genome	156348	Basidiomycota	Agaricomycetes	Polyporales	Meruliaceae	Phlebia	4	31.1811	1.15163
+KY911094.1	76775	Malassezia restricta	Malassezia restricta culture CBS:8742 mitochondrion, complete genome	40172	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	31.181	0
+NC_042184.1	1518593	Lecanora cinereofusca	Lecanora cinereofusca voucher 45937 mitochondrion, complete genome	32357	Ascomycota	Lecanoromycetes	Lecanorales	Lecanoraceae	Lecanora	4	31.1349	0
+KY911093.1	76775	Malassezia restricta	Malassezia restricta culture CBS:7877 mitochondrion, complete genome	38499	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	31.1276	0
+LT906328.1	61369	Fusarium oxysporum f. sp. melonis	TPA_asm: Fusarium oxysporum f. sp. melonis strain Fom009 complete mitochondrion genome	38736	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	31.0749	0
+AP019006.1	68746	Stropharia rugosoannulata	Stropharia rugosoannulata NBRC31871 mitochondrial DNA, complete sequence	60551	Basidiomycota	Agaricomycetes	Agaricales	Strophariaceae	Stropharia	4	31.0604	0.248139
+AY874423.1	5507	Fusarium oxysporum	Fusarium oxysporum voucher VPRI 19292 mitochondrion, partial genome	33396	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	31.027	0
+MH743217.1	1916073	Termitomyces sp.	UNVERIFIED: Termitomyces sp. strain DKA19 mitochondrion sequence	105724	Basidiomycota	Agaricomycetes	Agaricales	Lyophyllaceae	Termitomyces	4	31.0142	1.98864
+NC_017930.1	5507	Fusarium oxysporum	Fusarium oxysporum mitochondrion, complete genome	34477	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	31.0073	0
+FQ311469.1	999809	Sporisorium reilianum SRZ2	Sporisorium reilianum SRZ2 mitochondrial DNA sequence	90496	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Sporisorium	4	30.9718	0.165837
+NC_024944.1	35722	Parasitella parasitica	Parasitella parasitica strain CBS 412.66 mitochondrion, complete genome	83361	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	4	30.9345	2.7027
+NC_039163.1	136281	Pseudevernia consocians	Pseudevernia consocians voucher 48566 mitochondrion, complete genome	76322	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Pseudevernia	4	30.9081	0.19685
+NC_035155.1	665079	Sclerotinia sclerotiorum 1980 UF-70	Sclerotinia sclerotiorum 1980 UF-70 mitochondrion, complete genome	128852	Ascomycota	Leotiomycetes	Helotiales	Sclerotiniaceae	Sclerotinia	4	30.9049	0
+NC_023540.1	290576	Colletotrichum lindemuthianum	Colletotrichum lindemuthianum mitochondrion, complete genome	36957	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	4	30.8889	0
+MF595868.1	290576	Colletotrichum lindemuthianum	Colletotrichum lindemuthianum isolate 83.501 mitochondrion, complete genome	37440	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	4	30.8514	0.401606
+NC_035825.1	543791	Opegrapha vulgata	Opegrapha vulgata voucher 45910 mitochondrion, complete genome	38937	Ascomycota	Arthoniomycetes	Arthoniales	Opegraphaceae	Opegrapha	4	30.7671	0.3861
+MG642023.1	2094712	Parmotrema diffractaicum	Parmotrema diffractaicum mitochondrion, partial genome	89358	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Parmotrema	4	30.7585	1.0084
+KY217797.1	5353	Lentinula edodes	UNVERIFIED: Lentinula edodes mitochondrion sequence	116819	Basidiomycota	Agaricomycetes	Agaricales	Omphalotaceae	Lentinula	4	30.7275	8.48329
+NC_018365.1	5353	Lentinula edodes	Lentinula edodes mitochondrion, complete genome	121394	Basidiomycota	Agaricomycetes	Agaricales	Omphalotaceae	Lentinula	4	30.6856	8.03461
+NC_035730.1	315943	Hypogymnia vittata	Hypogymnia vittata mitochondrion, complete genome	38888	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Hypogymnia	4	30.6744	0
+NC_027280.1	27357	Colletotrichum acutatum	Colletotrichum acutatum strain KC05 mitochondrion, complete genome	30892	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	4	30.5626	0
+AP017980.1	1450759	Taphrina flavorubra JCM 22207	Taphrina flavorubra JCM 22207 mitochondrial DNA, nearly complete sequence	53165	Ascomycota	Taphrinomycetes	Taphrinales	Taphrinaceae	Taphrina	4	30.5386	0.282486
+NC_029706.1	1209934	Colletotrichum tamarilloi	Colletotrichum tamarilloi mitochondrion, complete genome	30824	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	4	30.5138	0
+MK618084.1	4896	Schizosaccharomyces pombe	Schizosaccharomyces pombe isolate MT13 mitochondrion, complete genome	20821	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	4	30.5073	0
+NC_040007.1	2486653	Parmotrema ultralucens	Parmotrema ultralucens voucher 6176 mitochondrion, complete genome	79456	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Parmotrema	4	30.5003	0.94518
+NC_035550.1	172621	Imshaugia aleurites	Imshaugia aleurites voucher 46246 mitochondrion, complete genome	32029	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Imshaugia	4	30.457	0
+NC_035496.1	1209931	Colletotrichum salicis	Colletotrichum salicis mitochondrion, complete genome	33950	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	4	30.4425	0
+NC_040930.1	866546	Schizosaccharomyces cryophilus	Schizosaccharomyces cryophilus strain OY26 mitochondrion, complete genome	32669	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	4	30.3902	0
+NC_044483.1	86788	Ramalina intermedia	Ramalina intermedia voucher 44717 mitochondrion, complete genome	30678	Ascomycota	Lecanoromycetes	Lecanorales	Ramalinaceae	Ramalina	4	30.3399	0
+KY362439.1	2041279	Parmotrema stuppeum	Parmotrema stuppeum voucher NY:Lendemer 46478 mitochondrion, complete genome	108024	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Parmotrema	4	30.3093	0.138889
+KP742837.1	767483	Fusarium temperatum	Fusarium temperatum mitochondrion, partial genome	44579	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	30.3075	0.673401
+MH308711.1	2563723	Arthonia kermesina	UNVERIFIED: Arthonia kermesina mitochondrion sequence	28069	Ascomycota	Arthoniomycetes	Arthoniales	Arthoniaceae	Arthonia	4	30.2995	0.534759
+NC_030522.1	354353	Chrysoporthe austroafricana	Chrysoporthe austroafricana mitochondrion, complete genome	190834	Ascomycota	Sordariomycetes	Diaporthales	Cryphonectriaceae	Chrysoporthe	4	30.2704	0.157233
+MH367296.1	42368	Hirsutella thompsonii	Hirsutella thompsonii strain ARSEF 1947 mitochondrion, complete genome	65332	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Hirsutella	4	30.2667	0.229885
+NC_034786.1	1089818	Bryoria tenuis	Bryoria tenuis voucher 46176 mitochondrion, complete genome	84295	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Bryoria	4	30.2163	0.356506
+FO082257.1	5111	Claviceps purpurea	Claviceps purpurea mitochondrial DNA sequence	55537	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Claviceps	4	30.2162	0
+NC_034659.1	72228	Ophiocordyceps sinensis	Ophiocordyceps sinensis mitochondrion, complete genome	157539	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Ophiocordyceps	4	30.2083	0.47619
+MH400233.1	72228	Ophiocordyceps sinensis	UNVERIFIED: Ophiocordyceps sinensis mitochondrion sequence	157584	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Ophiocordyceps	4	30.1981	0.380952
+NC_001326.1	4896	Schizosaccharomyces pombe	Schizosaccharomyces pombe mitochondrion, complete genome	19431	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	4	30.1602	0
+MH620790.1	326628	Annulohypoxylon stygium	Annulohypoxylon stygium isolate A mitochondrion, complete genome	145449	Ascomycota	Sordariomycetes	Xylariales	Hypoxylaceae	Annulohypoxylon	4	30.1514	0.928793
+MK618134.1	4896	Schizosaccharomyces pombe	Schizosaccharomyces pombe isolate MT63 mitochondrion, complete genome	26910	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	4	30.1453	0
+MK618072.1	4896	Schizosaccharomyces pombe	Schizosaccharomyces pombe isolate MT1 mitochondrion, complete genome	19433	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	4	30.1395	0
+NC_036417.1	74410	Bipolaris cookei	Bipolaris cookei strain LSLP18 mitochondrion, complete genome	135790	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Bipolaris	4	30.1355	0.441989
+MK618087.1	4896	Schizosaccharomyces pombe	Schizosaccharomyces pombe isolate MT16 mitochondrion, complete genome	23265	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	4	30.0731	0
+NC_001329.3	2587412	Podospora anserina	Podospora anserina mitochondrion, complete genome	100314	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Podospora	4	30.0719	0.748503
+NC_030052.1	710243	Colletotrichum fioriniae	Colletotrichum fioriniae mitochondrion, complete genome	30020	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	4	30.0467	0
+KY348846.1	1225178	Lepraria oxybapha	UNVERIFIED: Lepraria oxybapha mitochondrion sequence	40221	Ascomycota	Lecanoromycetes	Lecanorales	Stereocaulaceae	Lepraria	4	30.0348	0
+MH620793.1	326628	Annulohypoxylon stygium	Annulohypoxylon stygium isolate D mitochondrion, complete genome	140328	Ascomycota	Sordariomycetes	Xylariales	Hypoxylaceae	Annulohypoxylon	4	30.0036	0.534759
+MH367295.1	42368	Hirsutella thompsonii	Hirsutella thompsonii strain ARSEF 137 mitochondrion, complete genome	60362	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Hirsutella	4	30.0017	0.248756
+NC_030523.1	764597	Chrysoporthe deuterocubensis	Chrysoporthe deuterocubensis mitochondrion, complete genome	124412	Ascomycota	Sordariomycetes	Diaporthales	Cryphonectriaceae	Chrysoporthe	4	29.9871	0
+MK618078.1	4896	Schizosaccharomyces pombe	Schizosaccharomyces pombe isolate MT7 mitochondrion, complete genome	24346	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	4	29.9753	0
+NC_029213.1	145971	Colletotrichum lupini	Colletotrichum lupini strain CBS 119142 culture-collection CBS:119142 mitochondrion, complete genome	36554	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	4	29.9259	0
+MK618137.1	4896	Schizosaccharomyces pombe	Schizosaccharomyces pombe isolate MT66 mitochondrion, complete genome	17651	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	4	29.9088	0
+KC832409.1	332648	Botrytis cinerea B05.10	Botryotinia fuckeliana B05.10 mitochondrion, complete genome	82212	Ascomycota	Leotiomycetes	Helotiales	Sclerotiniaceae	Botrytis	4	29.899	0.182482
+NC_042879.1	117820	Spizellomyces sp. &apos;palustris&apos;	Spizellomyces palustris culture CBS:455.65 strain CBS 455.65 mitochondrion, complete genome	126474	Chytridiomycota	Chytridiomycetes	Spizellomycetales	Spizellomycetaceae	Spizellomyces	16	29.8861	0
+NW_007361658.1	645133	Colletotrichum graminicola M1.001	Colletotrichum graminicola M1.001 mitochondrion, whole genome shotgun sequence	39649	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	Colletotrichum	4	29.8788	0
+NC_040227.1	48703	Podospora comata	Podospora comata strain T genome assembly, organelle: mitochondrion	82766	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Podospora	4	29.8717	0.544465
+NC_023117.1	326628	Annulohypoxylon stygium	Annulohypoxylon stygium mitochondrion, complete genome	133782	Ascomycota	Sordariomycetes	Xylariales	Hypoxylaceae	Annulohypoxylon	4	29.8451	0.3367
+NC_013660.2	4754	Pneumocystis carinii	Pneumocystis carinii mitochondrion, complete genome	26119	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	4	29.8238	0
+MK618131.1	4896	Schizosaccharomyces pombe	Schizosaccharomyces pombe isolate MT60 mitochondrion, complete genome	20042	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	4	29.8195	0
+NC_035826.1	209564	Ricasolia amplissima	Ricasolia amplissima voucher CONN:Goffinet 44719 mitochondrion, complete genome	82333	Ascomycota	Lecanoromycetes	Peltigerales	Lobariaceae	Ricasolia	4	29.8187	1.09489
+MH308710.1	2563722	Arthonia cupressina	UNVERIFIED: Arthonia cupressina mitochondrion sequence	32492	Ascomycota	Arthoniomycetes	Arthoniales	Arthoniaceae	Arthonia	4	29.8148	0
+NC_040165.1	42368	Hirsutella thompsonii	Hirsutella thompsonii strain ARSEF 9457 mitochondrion, complete genome	62509	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Hirsutella	4	29.8077	0.480769
+MK618108.1	4896	Schizosaccharomyces pombe	Schizosaccharomyces pombe isolate MT37 mitochondrion, complete genome	17618	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	4	29.7949	0
+MH620791.1	326628	Annulohypoxylon stygium	Annulohypoxylon stygium isolate B mitochondrion, complete genome	131996	Ascomycota	Sordariomycetes	Xylariales	Hypoxylaceae	Annulohypoxylon	4	29.7945	0.455063
+NC_020332.1	263815	Pneumocystis murina	Pneumocystis murina mitochondrion, complete genome	24608	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	4	29.7846	0
+MK618109.1	4896	Schizosaccharomyces pombe	Schizosaccharomyces pombe isolate MT38 mitochondrion, complete genome	20066	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	4	29.7694	0
+NC_031375.1	101852	Glarea lozoyensis	Glarea lozoyensis strain ATCC 20868 culture-collection ATCC:20868 mitochondrion, complete genome	45501	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Glarea	4	29.7668	0
+MH620792.1	326628	Annulohypoxylon stygium	Annulohypoxylon stygium isolate C mitochondrion, complete genome	147325	Ascomycota	Sordariomycetes	Xylariales	Hypoxylaceae	Annulohypoxylon	4	29.7583	0.407332
+MK618088.1	4896	Schizosaccharomyces pombe	Schizosaccharomyces pombe isolate MT17 mitochondrion, complete genome	20066	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	4	29.7444	0
+KF169905.1	1104152	Glarea lozoyensis 74030	Glarea lozoyensis 74030 mitochondrion, complete genome	45038	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Glarea	4	29.74	0
+NC_030524.1	305400	Chrysoporthe cubensis	Chrysoporthe cubensis mitochondrion, complete genome	89084	Ascomycota	Sordariomycetes	Diaporthales	Cryphonectriaceae	Chrysoporthe	4	29.7246	0.168634
+MK618113.1	4896	Schizosaccharomyces pombe	Schizosaccharomyces pombe isolate MT42 mitochondrion, complete genome	22560	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	4	29.6978	0
+NC_039132.1	184108	Cladonia peziziformis	Cladonia peziziformis voucher NYBG:6281 mitochondrion, complete genome	45312	Ascomycota	Lecanoromycetes	Lecanorales	Cladoniaceae	Cladonia	4	29.6755	0.993377
+NC_036039.1	183478	Stemphylium lycopersici	Stemphylium lycopersici strain CIDEFI-216 mitochondrion, complete genome	75911	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Stemphylium	4	29.6495	0.395257
+KY801668.1	55169	Botryosphaeria dothidea	UNVERIFIED: Botryosphaeria dothidea mitochondrion sequence	109776	Ascomycota	Dothideomycetes	Botryosphaeriales	Botryosphaeriaceae	Botryosphaeria	4	29.6243	0.547196
+AP017979.1	1450758	Taphrina deformans JCM 22205	Taphrina deformans JCM 22205 mitochondrial DNA, nearly complete sequence	56056	Ascomycota	Taphrinomycetes	Taphrinales	Taphrinaceae	Taphrina	4	29.58	0.268097
+NC_036309.1	111670	Cladonia rangiferina	Cladonia rangiferina voucher NY:Lendemer 46392 mitochondrion, complete genome	59116	Ascomycota	Lecanoromycetes	Lecanorales	Cladoniaceae	Cladonia	4	29.5618	0.507614
+NC_029396.1	749589	Didymella pinodes	Didymella pinodes strain 165/T mitochondrion, complete genome	55973	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Didymella	4	29.5425	0
+MH010439.1	42068	Pneumocystis jirovecii	Pneumocystis jirovecii isolate DK07_25kb mitochondrion, complete genome	24717	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	4	29.5366	0
+MG593783.1	55169	Botryosphaeria dothidea	UNVERIFIED: Botryosphaeria dothidea isolate PGZH20 mitochondrion sequence	105788	Ascomycota	Dothideomycetes	Botryosphaeriales	Botryosphaeriaceae	Botryosphaeria	4	29.513	0.567376
+NC_039722.1	195789	Cladonia subtenuis	Cladonia subtenuis voucher NYBG:Lendemer 49895 mitochondrion, complete genome	59878	Ascomycota	Lecanoromycetes	Lecanorales	Cladoniaceae	Cladonia	4	29.5054	0.250627
+NC_035824.1	1257147	Graphis lineola	Graphis lineola voucher 46096 mitochondrion, complete genome	24945	Ascomycota	Lecanoromycetes	Ostropales	Graphidaceae	Graphis	4	29.4498	0
+NC_009746.1	321614	Parastagonospora nodorum SN15	Phaeosphaeria nodorum SN15 mitochondrion, complete genome	49761	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Parastagonospora	4	29.424	0
+NC_023126.1	914237	Rhynchosporium commune	Rhynchosporium commune mitochondrion, complete genome	69581	Ascomycota	Leotiomycetes	Helotiales	Rhynchosporium		4	29.3952	0
+MH010442.1	42068	Pneumocystis jirovecii	Pneumocystis jirovecii isolate IT918_25kb mitochondrion, complete genome	24875	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	4	29.3899	0
+MH010437.1	42068	Pneumocystis jirovecii	Pneumocystis jirovecii isolate Ar_25kb mitochondrion, complete genome	24903	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	4	29.3695	0
+NC_007780.1	29833	Hanseniaspora uvarum	Hanseniaspora uvarum mitochondrion, complete genome	18844	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Hanseniaspora	3	29.36	0
+NC_035508.1	335852	Arthrinium arundinis	Arthrinium arundinis mitochondrion, complete genome	48975	Ascomycota	Sordariomycetes	Xylariales	Apiosporaceae	Arthrinium	4	29.3599	0
+NC_023125.1	914238	Rhynchosporium agropyri	Rhynchosporium agropyri mitochondrion, complete genome	68904	Ascomycota	Leotiomycetes	Helotiales	Rhynchosporium		4	29.3595	0
+MH308713.1	2080612	Arthothelium ruanum	UNVERIFIED: Arthothelium ruanum mitochondrion sequence	27342	Ascomycota	Arthoniomycetes	Arthoniales	Arthoniaceae	Arthothelium	4	29.3443	0
+NC_015991.1	698441	Marssonina brunnea f. sp. &apos;multigermtubi&apos;	Marssonina brunnea f. sp. &apos;multigermtubi&apos; mitochondrion, complete genome	70379	Ascomycota	Leotiomycetes	Helotiales	Dermateaceae	Marssonina	4	29.3319	0
+NC_023128.1	38038	Rhynchosporium secalis	Rhynchosporium secalis mitochondrion, complete genome	68729	Ascomycota	Leotiomycetes	Helotiales	Rhynchosporium		4	29.3304	0
+NC_039663.1	195777	Cladonia petrophila	Cladonia petrophila voucher NYBG:Lendemer 49138 mitochondrion, complete genome	53100	Ascomycota	Lecanoromycetes	Lecanorales	Cladoniaceae	Cladonia	4	29.3296	0.849858
+AP017981.1	1450757	Taphrina wiesneri JCM 22204	Taphrina wiesneri JCM 22204 mitochondrial DNA, complete sequence	55946	Ascomycota	Taphrinomycetes	Taphrinales	Taphrinaceae	Taphrina	4	29.2939	0.268817
+MH010443.1	42068	Pneumocystis jirovecii	Pneumocystis jirovecii isolate S567_25kb mitochondrion, complete genome	25044	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	4	29.2932	0
+NC_039372.1	195755	Cladonia apodocarpa	Cladonia apodocarpa voucher NYBG:Lendemer 48789 mitochondrion, complete genome	50682	Ascomycota	Lecanoromycetes	Lecanorales	Cladoniaceae	Cladonia	4	29.2779	1.18694
+NC_042769.1	1929756	Desarmillaria tabescens	Desarmillaria tabescens isolate A014 mitochondrion, complete genome	93439	Basidiomycota	Agaricomycetes	Agaricales	Desarmillaria		4	29.2776	1.1254
+KY986975.1	112171	Curvularia trifolii	UNVERIFIED: Curvularia trifolii mitochondrion sequence	59100	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Curvularia	4	29.274	0.254453
+NC_042230.1	47425	Armillaria borealis	Armillaria borealis mitochondrion, complete genome	116433	Basidiomycota	Agaricomycetes	Agaricales	Physalacriaceae	Armillaria	4	29.2672	0.515464
+MK333197.1	71600	Graphis scripta	Graphis scripta mitochondrion, partial genome	25995	Ascomycota	Lecanoromycetes	Ostropales	Graphidaceae	Graphis	4	29.2447	0
+NC_030051.1	1518595	Lecanora strobilina	Lecanora strobilina mitochondrion, complete genome	39842	Ascomycota	Lecanoromycetes	Lecanorales	Lecanoraceae	Lecanora	4	29.2403	0
+KY911085.1	55194	Malassezia furfur	Malassezia furfur culture CBS:7982 mitochondrion, complete genome	47903	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	29.2393	0.31348
+KY801667.1	2021124	Botryosphaeria kuwatsukai	UNVERIFIED: Botryosphaeria kuwatsukai mitochondrion sequence	118034	Ascomycota	Dothideomycetes	Botryosphaeriales	Botryosphaeriaceae	Botryosphaeria	4	29.2341	0.890585
+MH878687.1	47427	Armillaria gallica	Armillaria gallica mitochondrion, partial genome	98896	Basidiomycota	Agaricomycetes	Agaricales	Physalacriaceae	Armillaria	4	29.2089	0.30349
+MH551223.1	1580851	Endoconidiophora resinifera	Endoconidiophora resinifera strain WIN(M)79 mitochondrion, partial genome	215106	Ascomycota	Sordariomycetes	Microascales	Ceratocystidaceae	Endoconidiophora	4	29.1994	1.60391
+KY911084.1	55194	Malassezia furfur	Malassezia furfur culture CBS:7710 mitochondrion, complete genome	47901	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	29.1912	0
+NC_042231.1	1076256	Armillaria solidipes	Armillaria solidipes mitochondrion, complete genome	122167	Basidiomycota	Agaricomycetes	Agaricales	Physalacriaceae	Armillaria	4	29.1859	0.614251
+MF669499.1	5599	Alternaria alternata	UNVERIFIED: Alternaria alternata mitochondrion sequence	50107	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	4	29.1816	0.598802
+MG851822.1	696364	Cladonia stipitata	UNVERIFIED: Cladonia stipitata mitochondrion sequence	60062	Ascomycota	Lecanoromycetes	Lecanorales	Cladoniaceae	Cladonia	4	29.1417	0.75
+NC_040159.1	116794	Heterodermia speciosa	Heterodermia speciosa voucher NYBG:49524 mitochondrion, complete genome	75318	Ascomycota	Lecanoromycetes	Caliciales	Physciaceae	Heterodermia	4	29.1182	0.398406
+KY911081.1	55194	Malassezia furfur	Malassezia furfur culture CBS:1878 strain CBS 1878 mitochondrion, complete genome	48161	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	29.0862	0
+JX271275.1	936046	Agaricus bisporus var. bisporus H97	Agaricus bisporus var. bisporus H97 mitochondrion, complete genome	135005	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	Agaricus	4	29.0704	0.111111
+NC_013839.1	52253	Candida sojae	Candida sojae mitochondrion, complete genome	39415	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	29.0687	0.381679
+NC_039662.1	195770	Cladonia leporina	Cladonia leporina voucher 6543 mitochondrion, complete genome	50045	Ascomycota	Lecanoromycetes	Lecanorales	Cladoniaceae	Cladonia	4	29.0591	0.3003
+NC_040967.1	1167838	Conidiobolus heterosporus	Conidiobolus heterosporus strain RCEF6331 mitochondrion, complete genome	53364	Zoopagomycota	Entomophthoromycetes	Entomophthorales	Ancylistaceae	Conidiobolus	4	29.0554	0
+NC_040008.1	1077358	Coniothyrium glycines	Coniothyrium glycines isolate PG-21 mitochondrion, complete genome	98533	Ascomycota	Dothideomycetes	Pleosporales	Coniothyriaceae	Coniothyrium	4	29.0234	0.304878
+KY911083.1	55194	Malassezia furfur	Malassezia furfur culture CBS:7019 mitochondrion, complete genome	49305	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	29.0102	0
+NC_036998.1	98342	Pleurotus citrinopileatus	Pleurotus citrinopileatus mitochondrion, complete genome	60694	Basidiomycota	Agaricomycetes	Agaricales	Pleurotaceae	Pleurotus	4	28.9917	7.17822
+NC_042822.1	196765	Cladonia macilenta	Cladonia macilenta voucher 49444 mitochondrion, complete genome	46553	Ascomycota	Lecanoromycetes	Lecanorales	Cladoniaceae	Cladonia	4	28.9849	0
+MK318263.1	195782	Cladonia ravenelii	UNVERIFIED: Cladonia ravenelii mitochondrion sequence	48008	Ascomycota	Lecanoromycetes	Lecanorales	Cladoniaceae	Cladonia	4	28.9771	0.3125
+MH221526.1	2217878	Lecanora markjohnstonii	UNVERIFIED: Lecanora sp. KGK-2018a mitochondrion sequence	62854	Ascomycota	Lecanoromycetes	Lecanorales	Lecanoraceae	Lecanora	4	28.9594	0.477327
+KY911086.1	55194	Malassezia furfur	Malassezia furfur culture CBS:JPLK23 mitochondrion, complete genome	48933	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	28.9387	0
+JH925097.1	1220162	Trichosporon asahii var. asahii CBS 8904	Trichosporon asahii var. asahii CBS 8904 mitochondrion, complete sequence, whole genome shotgun sequence	32567	Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Trichosporon	4	28.9155	0
+NW_014040924.1	1186058	Trichosporon asahii var. asahii CBS 2479	Trichosporon asahii var. asahii CBS 2479 mitochondrion, complete sequence, whole genome shotgun sequence	32568	Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Trichosporon	4	28.9124	0
+NC_042183.1	1585466	Lecanora saxigena	Lecanora saxigena voucher 49057 mitochondrion, complete genome	56579	Ascomycota	Lecanoromycetes	Lecanorales	Lecanoraceae	Lecanora	4	28.9001	0
+NC_016680.1	169388	Fusarium solani	Fusarium solani mitochondrion, complete genome	62978	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	4	28.8783	0.238663
+MH308712.1	2563724	Arthonia quintaria	UNVERIFIED: Arthonia quintaria mitochondrion sequence	50454	Ascomycota	Arthoniomycetes	Arthoniales	Arthoniaceae	Arthonia	4	28.875	0
+NC_009880.1	43049	Tilletia indica	Tilletia indica mitochondrion, complete genome	65147	Basidiomycota	Exobasidiomycetes	Tilletiales	Tilletiaceae	Tilletia	4	28.8664	0
+NC_042185.1	365009	Heterodermia casarettiana	Heterodermia casarettiana voucher NYBG:Lendemer 46038 mitochondrion, complete genome	84088	Ascomycota	Lecanoromycetes	Caliciales	Physciaceae	Heterodermia	4	28.819	1.25
+NC_023127.1	210010	Rhynchosporium orthosporum	Rhynchosporium orthosporum mitochondrion, complete genome	49539	Ascomycota	Leotiomycetes	Helotiales	Rhynchosporium		4	28.804	0
+NC_010651.1	117179	Tilletia walkeri	Tilletia walkeri mitochondrion, complete genome	59352	Basidiomycota	Exobasidiomycetes	Tilletiales	Tilletiaceae	Tilletia	4	28.7932	0
+MH924828.1	1755430	Ilyonectria sp.	Ilyonectria sp. strain s56 mitochondrion, complete genome	34584	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Ilyonectria	4	28.7594	0
+NC_029851.1	281364	Acremonium fuci	Acremonium fuci strain 3a34 culture-collection VKM:F-4473 mitochondrion, complete genome	24565	Ascomycota	Sordariomycetes	Hypocreales	Acremonium		4	28.728	0
+KR864756.1	1761922	Emericellopsis sp. 1a5	Emericellopsis sp. 1a5 mitochondrion, complete genome	24951	Ascomycota	Sordariomycetes	Hypocreales	Emericellopsis		4	28.7269	0
+NC_030252.1	29855	Nectria cinnabarina	Nectria cinnabarina strain 5175 mitochondrion, complete genome	69895	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Nectria	4	28.7211	0.215054
+CM008263.2	2282107	Pyrrhoderma noxium	Pyrrhoderma noxium strain FFPRI411160 mitochondrion, complete sequence, whole genome shotgun sequence	163449	Basidiomycota	Agaricomycetes	Hymenochaetales	Hymenochaetaceae	Pyrrhoderma	4	28.6716	0
+MN640580.1	1973308	Conidiobolus sp.	Conidiobolus sp. mitochondrion, complete genome	26612	Zoopagomycota	Entomophthoromycetes	Entomophthorales	Ancylistaceae	Conidiobolus	4	28.6591	0
+NC_035636.1	1547544	Pithomyces chartarum	Pithomyces chartarum mitochondrion, complete genome	68926	Ascomycota	Dothideomycetes	Pleosporales	Astrosphaeriellaceae	Pithomyces	4	28.6275	0
+MK697668.1	1929893	Plectosphaerella sp.	Plectosphaerella sp. mitochondrion, complete genome	31004	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Plectosphaerella	4	28.6117	0.485437
+NC_033907.1	655981	Pseudogymnoascus destructans	Pseudogymnoascus destructans strain 20631-21 mitochondrion, complete genome	32181	Ascomycota	Leotiomycetes	Pseudeurotiaceae	Pseudogymnoascus		4	28.5483	0
+NC_042229.1	64372	Armillaria sinapina	Armillaria sinapina mitochondrion, complete genome	103563	Basidiomycota	Agaricomycetes	Agaricales	Physalacriaceae	Armillaria	4	28.5082	0.289855
+MH359412.1	2040699	Bacidia sp.	Bacidia sp. voucher NYBG:Lendemer 48883 mitochondrion, complete genome	38546	Ascomycota	Lecanoromycetes	Lecanorales	Ramalinaceae	Bacidia	4	28.5052	0
+MK331994.1	2575987	Nadvornikia sorediata	UNVERIFIED: Nadvornikia sorediata mitochondrion sequence	29519	Ascomycota	Lecanoromycetes	Ostropales	Graphidaceae	Nadvornikia	4	28.466	0
+NC_031828.1	393283	Pestalotiopsis fici	Pestalotiopsis fici mitochondrion, complete genome	69529	Ascomycota	Sordariomycetes	Xylariales	Sporocadaceae	Pestalotiopsis	4	28.432	0
+NC_008068.1	5530	Metarhizium anisopliae	Metarhizium anisopliae mitochondrion, complete genome	24673	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Metarhizium	4	28.4268	0
+NC_034790.1	1940652	Gomphillus americanus	Gomphillus americanus voucher NYBG:Lendemer 45954 mitochondrion, complete genome	28370	Ascomycota	Lecanoromycetes	Ostropales	Graphidaceae	Gomphillus	4	28.4092	0
+NC_027660.1	332947	Hirsutella minnesotensis	Hirsutella minnesotensis strain 3608 mitochondrion, complete genome	52245	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Hirsutella	4	28.408	0
+NC_034779.1	1986077	Phyllopsora corallina	Phyllopsora corallina voucher 45963 mitochondrion, complete genome	39591	Ascomycota	Lecanoromycetes	Lecanorales	Ramalinaceae	Phyllopsora	4	28.4056	0
+NC_014693.1	497108	Candida jiufengensis	Candida jiufengensis mitochondrion, complete genome	29672	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	3	28.3418	0
+NC_037198.1	1341201	Pseudocercospora mori	Pseudocercospora mori mitochondrion, complete genome	49363	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Pseudocercospora	4	28.3323	0
+NC_030206.1	29852	Hypomyces aurantius	Hypomyces aurantius mitochondrion, complete genome	71638	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Hypomyces	4	28.3298	0
+NC_042773.1	29883	Laccaria bicolor	Laccaria bicolor mitochondrion, complete genome	95304	Basidiomycota	Agaricomycetes	Agaricales	Tricholomataceae	Laccaria	4	28.3213	0.629921
+NC_022835.1	280754	Pochonia chlamydosporia	Metacordyceps chlamydosporia strain 170 mitochondrion, complete genome	25615	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Pochonia	4	28.3098	0
+NC_030218.1	398673	Trichoderma gamsii	Trichoderma gamsii strain KUC1747 mitochondrion, complete genome	29303	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	4	28.2974	0
+MG979071.1	111463	Hirsutella rhossiliensis	Hirsutella rhossiliensis strain OWVT-1 mitochondrion, complete genome	62949	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Hirsutella	4	28.2944	0
+NC_044675.1	108901	Porodaedalea pini	Porodaedalea pini strain BCRC 35384 mitochondrion, complete genome	144970	Basidiomycota	Agaricomycetes	Hymenochaetales	Hymenochaetaceae	Porodaedalea	4	28.2719	0.207039
+NC_044679.1	27342	Schizopora paradoxa	Schizopora paradoxa strain KUC8140 mitochondrion, complete genome	57732	Basidiomycota	Agaricomycetes	Hymenochaetales	Schizoporaceae	Schizopora	4	28.2483	0.260417
+NC_030164.1	111463	Hirsutella rhossiliensis	Hirsutella rhossiliensis isolate USA-87-5 mitochondrion, complete genome	62483	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Hirsutella	4	28.2196	0
+NC_036158.1	4829	Absidia glauca	Absidia glauca strain CBS 101.48 mitochondrion, complete genome	63080	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	4	28.2111	2.14286
+KY911097.1	76776	Malassezia slooffiae	Malassezia slooffiae culture CBS:7956 mitochondrion, complete genome	40575	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	28.2	0
+NC_030340.1	64609	Ilyonectria destructans	Ilyonectria destructans isolate 2007/P/476 mitochondrion, complete genome	42895	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Ilyonectria	4	28.1942	0
+NC_022157.1	434046	Candida tetrigidarum	Candida tetrigidarum strain NRRL Y-48142 mitochondrion, complete genome	52426	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	28.149	0
+NC_027422.1	79858	Pseudogymnoascus pannorum	Pseudogymnoascus pannorum strain NN050741 mitochondrion, complete genome	26918	Ascomycota	Leotiomycetes	Pseudeurotiaceae	Pseudogymnoascus		4	28.1415	0
+NC_045218.1	288723	Turbinellus floccosus	Turbinellus floccosus mitochondrion, complete genome	62846	Basidiomycota	Agaricomycetes	Gomphales	Gomphaceae	Turbinellus	4	28.0941	0
+KY911087.1	76773	Malassezia globosa	Malassezia globosa culture CBS:7874 mitochondrion, complete genome	34808	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	28.0517	0
+KY911088.1	76773	Malassezia globosa	Malassezia globosa culture CBS:7966 mitochondrion, complete genome	34689	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	28.0462	0
+MH308714.1	2563725	Arthonia rubella	UNVERIFIED: Arthonia rubella mitochondrion sequence	27418	Ascomycota	Arthoniomycetes	Arthoniales	Arthoniaceae	Arthonia	4	28.0366	0
+NC_015789.1	576137	Phialocephala subalpina	Phialocephala subalpina mitochondrion, complete genome	43742	Ascomycota	Leotiomycetes	Helotiales	Phialocephala		4	27.9656	0
+NC_042878.1	1806994	Synchytrium microbalum	Synchytrium microbalum strain JEL517 mitochondrion, complete genome	23811	Chytridiomycota	Chytridiomycetes	Synchytriales	Synchytriaceae	Synchytrium	16	27.962	0
+NC_039441.1	117066	Myochromella boudieri	Myochromella boudieri strain TB01 mitochondrion, complete genome	99774	Basidiomycota	Agaricomycetes	Agaricales	Lyophyllaceae	Myochromella	4	27.9388	0.451128
+NC_038224.1	47721	Lyophyllum shimeji	Lyophyllum shimeji mitochondrion, complete genome	73678	Basidiomycota	Agaricomycetes	Agaricales	Lyophyllaceae	Lyophyllum	4	27.9375	1.01833
+NC_036667.1	29856	Clonostachys rosea	Clonostachys rosea strain 6792 mitochondrion, complete genome	40921	Ascomycota	Sordariomycetes	Hypocreales	Bionectriaceae	Clonostachys	4	27.8946	0
+NC_006838.1	78898	Mortierella verticillata	Mortierella verticillata mitochondrion, complete genome	58745	Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella	4	27.8772	0
+NC_030334.1	395010	Zasmidium cellare	Zasmidium cellare mitochondrion, complete genome	23743	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Zasmidium	4	27.8692	0
+NC_022176.1	391825	Candida chauliodis	Candida chauliodes strain NRRL Y-27909 mitochondrion, complete genome	77153	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	27.8521	0.972763
+KY911091.1	76774	Malassezia obtusa	Malassezia obtusa culture CBS:7876 mitochondrion, complete genome	60147	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	27.8433	0
+KY305663.1	1983619	Phlyctis boliviensis	UNVERIFIED: Phlyctis boliviensis mitochondrion sequence	25319	Ascomycota	Lecanoromycetes	Phlyctidaceae	Phlyctis		4	27.8333	0
+NC_041427.1	1405805	Aspergillus pseudoglaucus	Aspergillus pseudoglaucus mitochondrion, complete genome	53882	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	27.8217	0.278552
+NC_037075.1	101201	Trichoderma asperellum	Trichoderma asperellum strain B05 mitochondrion, complete genome	29999	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	4	27.799	0
+KY911089.1	76773	Malassezia globosa	Malassezia globosa culture CBS:7990 mitochondrion, complete genome	38672	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	27.7951	0
+NC_022156.1	497109	Candida pseudojiufengensis	Candida pseudojiufengensis strain AS2.3693 mitochondrion, complete genome	33625	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	27.7708	0
+KY924882.1	29910	Tolypocladium inflatum	Tolypocladium inflatum strain ARSEF 9506 mitochondrion, complete genome	25328	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Tolypocladium	4	27.7619	0
+KY924881.1	29910	Tolypocladium inflatum	Tolypocladium inflatum strain ARSEF 3433 mitochondrion, complete genome	25328	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Tolypocladium	4	27.7579	0
+NC_036382.1	29910	Tolypocladium inflatum	Tolypocladium inflatum strain ARSEF 3280 mitochondrion, complete genome	25328	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Tolypocladium	4	27.75	0
+NC_036144.1	49224	Trichoderma hamatum	Trichoderma hamatum, complete genome	32763	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	4	27.6881	0
+NC_025768.1	1173061	Geotrichum candidum	Galactomyces candidum complete mitochondrial genome, strain CLIB 918	29008	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Geotrichum	3	27.6304	0
+NC_015400.1	221103	Moniliophthora roreri	Moniliophthora roreri mitochondrion, complete genome	93722	Basidiomycota	Agaricomycetes	Agaricales	Marasmiaceae	Moniliophthora	4	27.6004	0.961538
+NC_045198.1	933333	Amanita inopinata	Amanita inopinata mitochondrion, complete genome	59691	Basidiomycota	Agaricomycetes	Agaricales	Amanitaceae	Amanita	4	27.5668	0.251889
+NC_022708.1	931006	Beauveria pseudobassiana	Beauveria pseudobassiana strain C1010 mitochondrion, complete genome	28006	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	4	27.552	0
+MK294991.1	1885590	Bacidia sorediata	Bacidia sorediata mitochondrion, complete genome	35525	Ascomycota	Lecanoromycetes	Lecanorales	Ramalinaceae	Bacidia	4	27.5424	0
+NC_043850.1	264952	Paecilomyces penicillatus	Paecilomyces penicillatus strain SAAS_ppe1 mitochondrion, complete genome	27480	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Paecilomyces	4	27.5228	0
+NC_031384.1	71617	Tolypocladium ophioglossoides	Tolypocladium ophioglossoides isolate L2 mitochondrion, complete genome	35159	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Tolypocladium	4	27.5185	0
+KF906135.1	73839	Epichloe festucae var. lolii	UNVERIFIED: Neotyphodium lolii mitochondrion sequence	88756	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Epichloe	4	27.5183	0
+KX066187.1	1915362	Epichloe hybrida	Epichloe hybrida strain Lp1 mitochondrion, complete genome	88750	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Epichloe	4	27.5048	0
+NC_032064.1	35717	Epichloe festucae	Epichloe festucae strain AR5 mitochondrion, complete genome	88744	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Epichloe	4	27.5037	0
+KY911098.1	253288	Malassezia yamatoensis	Malassezia yamatoensis culture CBS:9725 mitochondrion, complete genome	41233	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	4	27.3942	0
+NC_011194.1	118266	Beauveria brongniartii	Cordyceps brongniartii mitochondrion, complete genome	33926	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	4	27.3392	0.442478
+NC_008248.1	27337	Verticillium dahliae	Verticillium dahliae mitochondrion, complete genome	27184	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Verticillium	4	27.3149	0
+NC_032030.1	45354	[Candida] intermedia	[Candida] intermedia strain CBS 141442 genome assembly, organelle: mitochondrion	21871	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Clavispora	3	27.3149	0
+KY348761.1	124099	Mycocalicium subtile	Mycocalicium subtile mitochondrion, partial genome	27263	Ascomycota	Eurotiomycetes	Mycocaliciales	Mycocaliciaceae	Mycocalicium	4	27.2523	0
+NC_016955.1	52884	Peltigera malacea	Peltigera malacea mitochondrion, complete genome	63363	Ascomycota	Lecanoromycetes	Peltigerales	Peltigeraceae	Peltigera	4	27.2496	0
+NC_003388.1	51453	Trichoderma reesei	Trichoderma reesei mitochondrion, complete genome	42130	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	4	27.2429	0
+NC_010652.2	176275	Beauveria bassiana	Beauveria bassiana mitochondrion, complete genome	29961	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	4	27.2161	0
+NC_004514.1	2231603	Akanthomyces muscarius	Lecanicillium muscarium mitochondrion, complete genome	24499	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Akanthomyces	4	27.1656	0
+KP722500.2	73501	Cordyceps militaris	Cordyceps militaris isolate CM06 mitochondrion, complete genome	26535	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Cordyceps	4	27.1477	0
+JQ355001.1	33178	Aspergillus terreus	UNVERIFIED: Aspergillus terreus strain NIH2624 mitochondrial sequence	24658	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	27.1423	0
+KT201148.1	176275	Beauveria bassiana	Beauveria bassiana isolate k4 mitochondrion, complete genome	28816	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	4	27.0937	0
+NC_016957.1	161997	Peltigera membranacea	Peltigera membranacea mitochondrion, complete genome	62785	Ascomycota	Lecanoromycetes	Peltigerales	Peltigeraceae	Peltigera	4	27.0861	0
+MG720572.1	394545	Pertusaria plittiana	UNVERIFIED: Pertusaria plittiana mitochondrion sequence	93709	Ascomycota	Lecanoromycetes	Pertusariales	Pertusariaceae	Pertusaria	4	27.0844	0.320513
+NC_037937.1	1566825	Ganoderma leucocontextum	Ganoderma leucocontextum mitochondrion, complete genome	88194	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Ganoderma	4	27.0733	0
+MK330851.1	2569847	Acanthothecis fontana	UNVERIFIED: Acanthothecis fontana mitochondrion sequence	45915	Ascomycota	Lecanoromycetes	Ostropales	Graphidaceae	Acanthothecis	4	27.0414	0
+NC_010166.1	4959	Debaryomyces hansenii	Debaryomyces hansenii mitochondrion, complete genome	29462	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	3	27.034	0
+KT201149.1	176275	Beauveria bassiana	Beauveria bassiana isolate e17 mitochondrion, complete genome	29944	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	4	27.0184	0
+MH211586.1	176275	Beauveria bassiana	Beauveria bassiana strain ZJ001 mitochondrion, complete genome	31258	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	4	27.016	0
+EU100742.1	176275	Beauveria bassiana	Cordyceps bassiana isolate Bb147 mitochondrion, complete genome	32263	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	4	26.9953	0
+MK234910.1	45847	Cordyceps tenuipes	Cordyceps tenuipes mitochondrion, complete genome	31386	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Cordyceps	4	26.9793	0
+KP719096.1	73501	Cordyceps militaris	Cordyceps militaris isolate CM01 mitochondrion, complete genome	31854	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Cordyceps	4	26.9623	0
+NC_032063.1	5113	Epichloe typhina	Epichloe typhina strain E8 mitochondrion, complete genome	84630	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Epichloe	4	26.9598	0
+FN870377.1	4920	Millerozyma farinosa	Millerozyma farinosa mitochondrial genome, strain CBS185	32065	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Millerozyma	3	26.9577	0
+KP719097.1	73501	Cordyceps militaris	Cordyceps militaris isolate V26-17 mitochondrion, complete genome	29478	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Cordyceps	4	26.9388	0
+NC_007445.1	5061	Aspergillus niger	Aspergillus niger mitochondrion, complete genome	31103	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	26.9372	0
+NC_029238.1	1051616	Verticillium nonalfalfae	Verticillium nonalfalfae mitochondrion, complete genome	26139	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Verticillium	4	26.9195	0
+NC_044963.1	5158	Ceratocystis fimbriata	Ceratocystis fimbriata isolate CMW15049 mitochondrion, complete genome	103403	Ascomycota	Sordariomycetes	Microascales	Ceratocystidaceae	Ceratocystis	4	26.9153	0
+NC_018359.1	100816	Madurella mycetomatis	Madurella mycetomatis mitochondrion, complete genome	45590	Ascomycota	Sordariomycetes	Sordariales	Madurella		4	26.8867	0
+NC_022161.1	36911	Clavispora lusitaniae	Clavispora lusitaniae strain CBS 6936 mitochondrion, complete genome	24896	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Clavispora	4	26.8687	1.21212
+NC_020430.1	386457	Ceratocystis cacaofunesta	Ceratocystis cacaofunesta mitochondrion, complete genome	103147	Ascomycota	Sordariomycetes	Microascales	Ceratocystidaceae	Ceratocystis	4	26.8171	0
+NC_007597.1	5068	Aspergillus tubingensis	Aspergillus tubingensis mitochondrion, complete genome	33656	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	26.8125	0
+NC_022834.1	73501	Cordyceps militaris	Cordyceps militaris strain EFCC-C2 mitochondrion, complete genome	33277	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Cordyceps	4	26.8024	0
+NC_022933.1	36075	Ganoderma sinense	Ganoderma sinense mitochondrion, complete genome	86451	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Ganoderma	4	26.7917	0
+NC_020368.1	36066	Cantharellus cibarius	Cantharellus cibarius mitochondrion, complete genome	58656	Basidiomycota	Agaricomycetes	Cantharellales	Cantharellaceae	Cantharellus	4	26.7911	0
+NC_036999.1	2015914	Pleurotus platypus	Pleurotus platypus mitochondrion, complete genome	73807	Basidiomycota	Agaricomycetes	Agaricales	Pleurotaceae	Pleurotus	4	26.7859	2.43902
+NC_031804.1	176453	Peltigera dolichorrhiza	Peltigera dolichorrhiza mitochondrion, complete genome	51156	Ascomycota	Lecanoromycetes	Peltigerales	Peltigeraceae	Peltigera	4	26.784	0
+NC_037756.1	409893	Cantharellus appalachiensis	Cantharellus appalachiensis isolate s38 mitochondrion, complete genome	73562	Basidiomycota	Agaricomycetes	Cantharellales	Cantharellaceae	Cantharellus	4	26.781	0.204082
+NC_036103.1	45577	[Candida] psychrophila	Candida psychrophila strain NRRL Y-17665 mitochondrion, complete genome	38445	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	3	26.7734	0
+NC_045185.1	357446	Ceratocystis albifundus	Ceratocystis albifundus isolate CMW17620 mitochondrion, complete genome	102548	Ascomycota	Sordariomycetes	Microascales	Ceratocystidaceae	Ceratocystis	4	26.7584	0
+NC_022172.1	391826	Candida corydali	Candida corydali strain NRRL Y-27910 mitochondrion, complete genome	46389	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	26.7487	0.647249
+NC_038091.1	5321	Pleurotus cornucopiae	Pleurotus cornucopiae isolate SWS_15 mitochondrion, complete genome	72134	Basidiomycota	Agaricomycetes	Agaricales	Pleurotaceae	Pleurotus	4	26.7264	3.125
+NC_030635.1	371061	Beauveria malawiensis	Beauveria malawiensis isolate k89 mitochondrion, complete genome	44135	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	4	26.7143	0
+HF570115.2	5315	Ganoderma lucidum	Ganoderma lucidum G.260125-1 mitochondrial complete genome	60630	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Ganoderma	4	26.6799	0
+NC_021750.1	5315	Ganoderma lucidum	Ganoderma lucidum mitochondrion, complete genome	60635	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Ganoderma	4	26.6766	0.247525
+NC_037936.1	34467	Ganoderma tsugae	Ganoderma tsugae mitochondrion, complete genome	92511	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Ganoderma	4	26.671	0
+NC_027188.1	29884	Ganoderma applanatum	Ganoderma applanatum strain CGMCC5.249 mitochondrion, complete genome	119803	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Ganoderma	4	26.6675	0
+NC_027459.1	48254	Torulaspora globosa	Torulaspora globosa strain CBS 2947 mitochondrion, complete genome	45193	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Torulaspora	3	26.6379	0.332226
+KJ764671.1	797268	Paecilomyces hepiali	UNVERIFIED: Paecilomyces hepiali mitochondrion sequence	24245	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Paecilomyces	4	26.6294	0
+NC_023268.1	5044	Acremonium chrysogenum	Acremonium chrysogenum mitochondrion, complete genome	27266	Ascomycota	Sordariomycetes	Hypocreales	Acremonium		4	26.604	0
+CP019506.1	1365886	Zygosaccharomyces parabailii	Zygosaccharomyces parabailii strain ATCC 60483 mitochondrion, complete genome	29945	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Zygosaccharomyces	3	26.5963	2.01005
+MG602717.1	36066	Cantharellus cibarius	Cantharellus cibarius isolate s75 mitochondrion, complete genome	56786	Basidiomycota	Agaricomycetes	Cantharellales	Cantharellaceae	Cantharellus	4	26.4709	0
+NC_028330.1	468837	Lecanicillium saksenae	Lecanicillium saksenae mitochondrion, complete genome	25919	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Lecanicillium	4	26.4651	0
+MH252531.1	1869158	Ganoderma sp.	Ganoderma sp. mitochondrion, complete genome	57232	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Ganoderma	4	26.4567	0
+NC_040166.1	1069201	Aspergillus luchuensis	Aspergillus luchuensis mitochondrion, complete genome	31228	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	26.4391	0
+AP012272.1	1033177	Aspergillus kawachii IFO 4308	Aspergillus kawachii IFO 4308 mitochondrial DNA, complete sequence	31222	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	26.4391	0
+NC_009905.1	5322	Pleurotus ostreatus	Pleurotus ostreatus mitochondrion, complete genome	73242	Basidiomycota	Agaricomycetes	Agaricales	Pleurotaceae	Pleurotus	4	26.3511	1.63934
+FQ859090.1	1109443	Serendipita indica DSM 11827	Piriformospora indica DSM 11827 mitochondrial complete genome	63682	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita	4	26.305	0
+MK111108.1	1715249	Scytalidium sp.	Scytalidium sp. isolate chengchen mitochondrion, complete genome	96857	Ascomycota	Leotiomycetes	Scytalidium			4	26.3028	0
+NC_033533.1	5323	Pleurotus eryngii	Pleurotus eryngii mitochondrion, complete genome	72650	Basidiomycota	Agaricomycetes	Agaricales	Pleurotaceae	Pleurotus	4	26.2948	1.8595
+NC_042413.1	2054620	Phlyctis petraea	Phlyctis petraea voucher 49648 mitochondrion, complete genome	49698	Ascomycota	Lecanoromycetes	Phlyctidaceae	Phlyctis		4	26.2941	0
+NC_013809.1	5486	Candida viswanathii	Candida viswanathii mitochondrion, complete genome	39242	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	26.2861	0
+NC_029759.1	1802957	Cairneyella variabilis	Cairneyella variabilis isolate VPRI 42388 mitochondrion, complete genome	27186	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Cairneyella	4	26.2799	0
+NC_030636.1	38006	Beauveria caledonica	Beauveria caledonica isolate fhr1 mitochondrion, complete genome	38316	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	4	26.2431	0
+JQ355000.1	5059	Aspergillus flavus	UNVERIFIED: Aspergillus flavus strain NRRL 3357 mitochondrial sequence	29205	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	26.2199	0
+NC_042947.1	383872	Dactylella tenuis	Dactylella tenuis mitochondrion, complete genome	186056	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	Dactylella	4	26.2108	0.322581
+MK110677.1	218633	Cordyceps cicadae	Cordyceps cicadae strain ARSEF 11726 mitochondrion, complete genome	49138	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Cordyceps	4	26.1896	0
+NC_018100.1	1160506	Aspergillus oryzae 3.042	Aspergillus oryzae 3.042 mitochondrion, complete genome	29192	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	26.1821	0
+NC_006077.1	28985	Kluyveromyces lactis	Kluyveromyces lactis mitochondrion, complete genome	40291	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	4	26.1791	0.373134
+NC_041445.1	5067	Aspergillus parasiticus	Aspergillus parasiticus mitochondrion, complete genome	29141	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	26.1753	0
+NC_006836.1	64495	Rhizopus oryzae	Rhizopus oryzae mitochondrion, complete genome	54178	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	NA	26.1717	0.554017
+NC_041248.1	47238	Drechslerella brochopaga	Drechslerella brochopaga mitochondrion, complete genome	193195	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	Drechslerella	4	26.1699	0.1554
+KY352472.1	5062	Aspergillus oryzae	Aspergillus oryzae culture ATCC:44194 mitochondrion, complete genome	29202	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	26.1684	0
+JQ354998.1	5062	Aspergillus oryzae	Aspergillus oryzae strain RIB40 mitochondrion, partial genome	29202	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	26.1684	0
+NC_026782.1	154344	Ganoderma meredithae	Ganoderma meredithae strain CGMCC5.766 mitochondrion, complete genome	78447	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Ganoderma	4	26.1609	0
+NC_041489.1	218633	Cordyceps cicadae	Cordyceps cicadae strain CCAD02 mitochondrion, complete genome	56581	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Cordyceps	4	26.1238	0
+JX855937.1	42068	Pneumocystis jirovecii	Pneumocystis jirovecii isolate Pj_R68 mitochondrion, complete genome	33690	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	4	26.1101	0
+NC_026534.1	1610689	Sarocladium implicatum	Acremonium implicatum mitochondrion, complete genome	22376	Ascomycota	Sordariomycetes	Hypocreales	Sarocladiaceae	Sarocladium	4	26.1074	0
+NC_044132.1	1873960	Pseudocercospora fijiensis	Pseudocercospora fijiensis isolate 081012 mitochondrion, complete genome	74089	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Pseudocercospora	4	26.0473	0
+KM595068.2	48254	Torulaspora globosa	Torulaspora globosa strain CBS 764 mitochondrion, complete genome	36879	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Torulaspora	3	26.0299	0.408163
+NC_042771.1	196114	Taiwanofungus camphoratus	Taiwanofungus camphoratus mitochondrion, complete genome	114922	Basidiomycota	Agaricomycetes	Polyporales	Taiwanofungus		4	26.0113	0.652742
+MG704281.1	2037899	Gamarada debralockiae	UNVERIFIED: Gamarada debralockiae isolate T6G9 mitochondrion sequence	28168	Ascomycota	Leotiomycetes	Helotiales	Gamarada		4	25.9537	0
+NC_022162.1	497107	Candida oxycetoniae	Candida oxycetoniae strain AS2.3656 mitochondrion, complete genome	62593	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	25.9297	0
+NW_008751656.1	858893	Exophiala dermatitidis NIH/UT8656	Exophiala dermatitidis NIH/UT8656 mitochondrion, whole genome shotgun sequence	26004	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	4	25.9152	0
+MK820635.1	47238	Drechslerella brochopaga	Drechslerella brochopaga mitochondrion, complete genome	280699	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	Drechslerella	4	25.8389	0.213789
+AP019407.1	5098	Monascus purpureus	Monascus purpureus GB-01 mitochondrial DNA, complete sequence	27264	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Monascus	4	25.8379	0
+NC_032302.1	37998	Parengyodontium album	Parengyodontium album voucher ATCC:56482 mitochondrion, complete genome	28081	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Parengyodontium	4	25.836	0
+NC_022152.1	694444	Candida saraburiensis	Candida saraburiensis strain KU-Xs13 mitochondrion, complete genome	32135	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	25.8193	0
+KY245891.1	370292	Thelephora ganbajun	Thelephora ganbajun isolate P2 mitochondrion, complete genome	52857	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae	Thelephora	4	25.7386	0
+NC_022168.1	39397	Candida sake	Candida sake strain CBS 159 mitochondrion, complete genome	26205	Ascomycota	Saccharomycetes	Saccharomycetales	Candida		4	25.7356	0
+NC_039355.1	2283411	Pertusaria propinqua	Pertusaria propinqua mitochondrion, complete genome	79765	Ascomycota	Lecanoromycetes	Pertusariales	Pertusariaceae	Pertusaria	4	25.72	0
+NC_045196.1	87325	Amanita bisporigera	Amanita bisporigera mitochondrion, complete genome	76761	Basidiomycota	Agaricomycetes	Agaricales	Amanitaceae	Amanita	4	25.6843	0.391389
+MK038875.1	5065	Aspergillus sp.	Aspergillus sp. strain Aspp_1 mitochondrion, complete genome	31374	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	25.6555	0
+MH010441.1	42068	Pneumocystis jirovecii	Pneumocystis jirovecii isolate GR5_full mitochondrion, complete genome	35048	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	4	25.6481	0
+NC_037757.1	104198	Cantharellus lutescens	Cantharellus lutescens isolate s144 mitochondrion, complete genome	80736	Basidiomycota	Agaricomycetes	Cantharellales	Cantharellaceae	Cantharellus	4	25.5514	0.185874
+NC_022155.1	45586	Candida santjacobensis	Candida santjacobensis strain CBS 8183 mitochondrion, complete genome	64525	Ascomycota	Saccharomycetes	Saccharomycetales	Candida		4	25.5473	0
+MH010440.1	42068	Pneumocystis jirovecii	Pneumocystis jirovecii isolate GR11b_full mitochondrion, complete genome	35339	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	4	25.5461	0
+NC_017016.1	746128	Aspergillus fumigatus	Aspergillus fumigatus mitochondrion, complete genome	30696	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	25.5457	0
+MF979820.1	5400	Agrocybe aegerita	Agrocybe aegerita cultivar SWS_17 mitochondrion, complete genome	116329	Basidiomycota	Agaricomycetes	Agaricales	Bolbitiaceae	Agrocybe	4	25.5441	0
+MH015348.1	2488734	Arthonia susa	Arthonia susa voucher 3981 mitochondrion, complete genome	50798	Ascomycota	Arthoniomycetes	Arthoniales	Arthoniaceae	Arthonia	4	25.5424	0
+NC_030172.1	60169	Penicillium polonicum	Penicillium polonicum mitochondrion, complete genome	28192	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	4	25.533	0
+MH010438.1	42068	Pneumocystis jirovecii	Pneumocystis jirovecii isolate CH26_full mitochondrion, complete genome	35473	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	4	25.5226	0
+MH010446.1	42068	Pneumocystis jirovecii	Pneumocystis jirovecii isolate SW7_full mitochondrion, complete genome	35597	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	4	25.5049	0
+JX855938.1	42068	Pneumocystis jirovecii	Pneumocystis jirovecii isolate Pj_1368 mitochondrion, complete genome	35517	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	4	25.5	0
+NC_016187.1	60172	Penicillium solitum	Penicillium solitum mitochondrion, complete genome	28601	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	4	25.4912	0
+JX855936.1	42068	Pneumocystis jirovecii	Pneumocystis jirovecii isolate Pj_WI mitochondrion, complete genome	35634	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	4	25.4852	0
+CM004524.1	86049	Cladophialophora carrionii	Cladophialophora carrionii strain KSF mitochondrion, complete sequence, whole genome shotgun sequence	26795	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	4	25.4831	0
+NC_020331.1	42068	Pneumocystis jirovecii	Pneumocystis jirovecii mitochondrion, complete genome	35626	Ascomycota	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	4	25.4712	0
+JQ346808.1	746128	Aspergillus fumigatus	Aspergillus fumigatus strain AF293 mitochondrion, complete genome	31765	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	25.4534	0
+JQ354995.1	36630	Aspergillus fischeri	UNVERIFIED: Neosartorya fischeri strain NRRL 181 mitochondrial sequence	34373	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	25.4469	0
+NC_037938.1	2026244	Ganoderma calidophilum	Ganoderma calidophilum mitochondrion, complete genome	124588	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Ganoderma	4	25.4386	0
+KR952336.1	229535	Penicillium nordicum	Penicillium nordicum strain UASWS BFE487 mitochondrion, partial genome	28520	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	4	25.4386	0
+KP722497.1	73501	Cordyceps militaris	Cordyceps militaris isolate CMA mitochondrion, partial genome	13246	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Cordyceps	4	25.4318	0
+JQ346809.1	746128	Aspergillus fumigatus	Aspergillus fumigatus strain AF210 mitochondrion, complete genome	31762	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	25.4281	0
+NC_027416.1	5082	Penicillium roqueforti	Penicillium roqueforti strain UASWS P1 mitochondrion, complete genome	29908	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	4	25.3936	0
+NC_015080.1	36651	Penicillium digitatum	Penicillium digitatum mitochondrion, complete genome	28978	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	4	25.361	0
+MH460534.1	28995	Pleurotus pulmonarius	UNVERIFIED: Pleurotus pulmonarius mitochondrion sequence	68305	Basidiomycota	Agaricomycetes	Agaricales	Pleurotaceae	Pleurotus	4	25.3597	0
+CM001645.1	1170229	Penicillium digitatum PHI26	Penicillium digitatum PHI26 mitochondrion, whole genome shotgun sequence	28977	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	4	25.3575	0
+CM001644.1	1170230	Penicillium digitatum Pd1	Penicillium digitatum Pd1 mitochondrion, whole genome shotgun sequence	28970	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	4	25.3541	0
+JQ062880.1	273372	Candida metapsilosis	Candida metapsilosis strain CP376 mitochondrion, partial genome	23642	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	25.3503	0
+NC_027433.1	4950	Torulaspora delbrueckii	Torulaspora delbrueckii strain CBS 5448 mitochondrion, complete genome	28793	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Torulaspora	3	25.3159	2.6178
+NC_039443.1	117010	Tricholomella constricta	Tricholomella constricta strain TC01ssc01 mitochondrion, complete genome	65087	Basidiomycota	Agaricomycetes	Agaricales	Lyophyllaceae	Tricholomella	4	25.3102	0.692841
+NC_034332.1	301477	Coccocarpia palmicola	Coccocarpia palmicola voucher NY:45953 mitochondrion, complete genome	73992	Ascomycota	Lecanoromycetes	Peltigerales	Coccocarpiaceae	Coccocarpia	4	25.3009	0
+MK550697.1	1814903	Dactylella sp.	Dactylella sp. strain YMF1.01838 mitochondrion, complete genome	190642	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	Dactylella	4	25.2856	0.0787402
+LT594370.1	273371	Candida orthopsilosis	Candida orthopsilosis partial mitochondrial genome, strain Sample_434	21769	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	3	25.269	0
+NC_036610.1	369263	Hirsutella vermicola	Hirsutella vermicola isolate AS3.7877 mitochondrion, complete genome	53793	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Hirsutella	4	25.2644	0
+LT594353.1	273371	Candida orthopsilosis	Candida orthopsilosis partial mitochondrial genome, strain 90-125	21629	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	3	25.2639	0
+MG596520.1	28995	Pleurotus pulmonarius	UNVERIFIED: Pleurotus pulmonarius mitochondrion sequence	70674	Basidiomycota	Agaricomycetes	Agaricales	Pleurotaceae	Pleurotus	4	25.2626	0.212314
+LT594356.1	273371	Candida orthopsilosis	Candida orthopsilosis partial mitochondrial genome, strain Sample_1799	21847	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	3	25.2598	0
+AB568600.1	29908	Sporothrix schenckii	Sporothrix schenckii mitochondrial DNA, complete genome, strain: KMU2052	26095	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Sporothrix	4	25.2524	0
+NC_026920.1	5059	Aspergillus flavus	Aspergillus flavus strain TCM2014 mitochondrion, complete genome	31602	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	25.2254	0
+NC_041448.1	661577	Orbilia dorsalis	Orbilia dorsalis strain 1835 mitochondrion, complete genome	191042	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	Orbilia	4	25.193	0
+NC_025570.1	40382	Aspergillus ustus	Aspergillus ustus strain 3.3904 mitochondrion, complete genome	33007	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	25.1667	0
+NC_026869.1	224420	Shiraia bambusicola	Shiraia bambusicola mitochondrion, complete genome	39030	Ascomycota	Dothideomycetes	Pleosporales	Shiraia		4	25.1641	0
+KX931017.1	1909432	Penicillium sp. ShG4C	Penicillium sp. ShG4C mitochondrion, complete genome	26725	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	4	25.1386	0
+LT594374.1	273371	Candida orthopsilosis	Candida orthopsilosis partial mitochondrial genome, strain Sample_498	21671	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	3	25.1065	0
+NC_006971.1	273372	Candida metapsilosis	Candida metapsilosis mitochondrion, complete genome	24152	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	25.0932	0
+LT594354.1	273371	Candida orthopsilosis	Candida orthopsilosis partial mitochondrial genome, strain Sample_151	23083	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	3	25.0719	0
+NC_015923.1	29908	Sporothrix schenckii	Sporothrix schenckii mitochondrion, complete genome	27125	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Sporothrix	4	25.0519	0
+LT594377.1	273371	Candida orthopsilosis	Candida orthopsilosis partial mitochondrial genome, strain Sample_748	23035	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	3	25.0458	0
+NC_006972.1	273371	Candida orthopsilosis	Candida orthopsilosis mitochondrion, complete genome	22528	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	25.0311	0
+LT594357.1	273371	Candida orthopsilosis	Candida orthopsilosis partial mitochondrial genome, strain Sample_1825	23050	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	3	25.024	0
+JQ354999.1	5057	Aspergillus clavatus	Aspergillus clavatus strain NRRL 1 mitochondrion, partial genome	35056	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	25.0157	0
+NC_044740.1	167356	Inonotus obliquus	Inonotus obliquus NBRC113408 mitochondrial DNA, complete genome	119110	Basidiomycota	Agaricomycetes	Hymenochaetales	Hymenochaetaceae	Inonotus	4	25.0076	0.125945
+KM595075.1	4950	Torulaspora delbrueckii	Torulaspora delbrueckii strain CBS 1146 mitochondrion, complete genome	31444	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Torulaspora	3	25.0048	0.478469
+NC_041246.1	13349	Arthrobotrys oligospora	Arthrobotrys oligospora mitochondrion, complete genome	160613	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	Arthrobotrys	4	24.9763	0
+NC_017896.1	227321	Aspergillus nidulans FGSC A4	Aspergillus nidulans FGSC A4 mitochondrion, complete genome	33227	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	4	24.9321	0
+JQ354994.1	28564	Talaromyces stipitatus	Talaromyces stipitatus strain ATCC 10500 mitochondrion, partial genome	36351	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	4	24.9311	0
+MG579954.1	28995	Pleurotus pulmonarius	UNVERIFIED: Pleurotus pulmonarius strain X1-15 mitochondrion sequence	73435	Basidiomycota	Agaricomycetes	Agaricales	Pleurotaceae	Pleurotus	4	24.9093	0.408998
+NC_035254.1	522482	Esteya vermicola	Esteya vermicola culture CBS:115803 mitochondrion, complete genome	46507	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Esteya	4	24.8559	0
+NC_006626.1	381046	Lachancea thermotolerans	Kluyveromyces thermotolerans mitochondrion, complete genome	23584	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Lachancea	3	24.8153	0
+LK392296.1	381046	Lachancea thermotolerans	Lachancea thermotolerans complete mitochondrial genome, strain CBS 1877	23611	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Lachancea	3	24.8025	0
+LT594366.1	273371	Candida orthopsilosis	Candida orthopsilosis partial mitochondrial genome, strain Sample_426	24325	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	3	24.7942	0
+NC_034928.1	1486872	Leptogium hirsutum	Leptogium hirsutum voucher 46937 mitochondrion, complete genome	120920	Ascomycota	Lecanoromycetes	Peltigerales	Collemataceae	Leptogium	4	24.7725	0.124069
+JQ354996.1	5076	Penicillium chrysogenum	UNVERIFIED: Penicillium chrysogenum strain Wisconsin 54-1255 mitochondrial sequence	27017	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	4	24.7222	0
+NC_022173.1	497110	Candida blackwelliae	Candida blackwellae strain AS2.3639 mitochondrion, complete genome	32053	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	24.6385	0
+JQ354997.1	37727	Talaromyces marneffei	UNVERIFIED: Penicillium marneffei strain ATCC 18224 mitochondrial sequence	35432	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	4	24.6384	0
+NC_005256.1	37727	Talaromyces marneffei	Talaromyces marneffei mitochondrion, complete genome	35438	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	4	24.6356	0
+KU761331.1	37727	Talaromyces marneffei	Talaromyces marneffei strain PM20 mitochondrion, complete genome	35438	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	4	24.6215	0
+KU761332.1	37727	Talaromyces marneffei	Talaromyces marneffei strain PM26 mitochondrion, complete genome	35434	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	4	24.6186	0
+MK633967.1	47236	Arthrobotrys musiformis	Arthrobotrys musiformis isolate YMF1.03753 mitochondrion, complete genome	184443	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	Arthrobotrys	4	24.6037	0
+NC_022154.1	4929	Meyerozyma guilliermondii	Meyerozyma guilliermondii strain CBS 2030 mitochondrion, complete genome	31070	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Meyerozyma	4	24.5894	0
+NC_030600.1	89940	Cladophialophora bantiana	Cladophialophora bantiana mitochondrion, complete genome	26821	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	4	24.588	0
+NC_041444.1	47236	Arthrobotrys musiformis	Arthrobotrys musiformis isolate YMF1.03721 mitochondrion, complete genome	179060	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	Arthrobotrys	4	24.5834	0
+HE983610.1	1230904	Lachancea sp. PJ-2012a	Lachancea sp. PJ-2012a complete mitochondrial genome, strain CBS6924	25658	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Lachancea	3	24.5809	0
+NC_045194.1	67725	Amanita pseudoporphyria	Amanita pseudoporphyria mitochondrion, complete genome	52733	Basidiomycota	Agaricomycetes	Agaricales	Amanitaceae	Amanita	4	24.5679	0.2849
+MG020143.1	170179	Ophiostoma novo-ulmi subsp. novo-ulmi	Ophiostoma novo-ulmi subsp. novo-ulmi mitochondrion, complete genome	65095	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Ophiostoma	4	24.5635	0
+NC_045200.1	67723	Amanita phalloides	Amanita phalloides mitochondrion, complete genome	101106	Basidiomycota	Agaricomycetes	Agaricales	Amanitaceae	Amanita	4	24.5569	0
+NC_012830.1	119676	Nannizzia nana	Arthroderma obtusum mitochondrion, complete genome	24105	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Nannizzia	4	24.5	0
+DQ026513.2	273371	Candida orthopsilosis	Candida orthopsilosis strain MCO471 mitochondrion, complete genome	25281	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	24.4841	0
+MK633966.1	47236	Arthrobotrys musiformis	Arthrobotrys musiformis isolate YMF1.01900 mitochondrion, complete genome	174085	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	Arthrobotrys	4	24.4592	0
+NC_013933.1	575983	Trametes cingulata	Trametes cingulata mitochondrion, complete genome	91500	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Trametes	4	24.4554	0
+NC_011133.1	148634	Candida neerlandica	Candida neerlandica mitochondrion, complete genome	32141	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	24.3956	0
+CM008827.1	1246581	Paramicrosporidium saccamoebae	Paramicrosporidium saccamoebae strain KSL3 mitochondrion, complete sequence, whole genome shotgun sequence	25401	Cryptomycota	Paramicrosporidium				4	24.2801	0
+NC_022169.1	1198502	Candida theae	Candida theae strain G-17 mitochondrion, complete genome	26234	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	24.2797	0
+FJ754025.1	273371	Candida orthopsilosis	Candida orthopsilosis mitochondrion, partial genome	26251	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	24.2743	0
+NC_036378.1	27294	Kazachstania unispora	Kazachstania unispora strain Y-1556 mitochondrion, complete genome	29129	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kazachstania	3	24.2405	0.515464
+NC_012832.1	63405	Microsporum canis	Microsporum canis mitochondrion, complete genome	23943	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Microsporum	4	24.1761	0
+JQ062881.1	5480	Candida parapsilosis	Candida parapsilosis strain GA1 mitochondrion, partial genome	31531	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	24.1587	0
+NC_037239.1	5327	Trametes hirsuta	Trametes hirsuta strain 072 mitochondrion, complete genome	59039	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Trametes	4	24.0814	0
+MG592681.1	523103	Trichophyton mentagrophytes	Trichophyton mentagrophytes strain TIMM 2789 mitochondrion, complete genome	24287	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Trichophyton	4	24.0787	0
+NC_004312.1	4899	Schizosaccharomyces octosporus	Schizosaccharomyces octosporus mitochondrion, complete genome	44227	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	4	24.0703	0
+NC_012826.1	523103	Trichophyton mentagrophytes	Trichophyton mentagrophytes mitochondrion, complete genome	24297	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Trichophyton	4	24.0497	0
+NC_034349.1	186125	Fomitopsis palustris	Fomitopsis palustris mitochondrial DNA, complete sequence, strain: FFPRI 0507	63479	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	Fomitopsis	4	24.0221	0
+NC_045201.1	235537	Amanita thiersii	Amanita thiersii mitochondrion, complete genome	137428	Basidiomycota	Agaricomycetes	Agaricales	Amanitaceae	Amanita	4	24.0073	0
+NC_027458.1	53488	Torulaspora franciscae	Torulaspora franciscae strain Y6686 mitochondrion, complete genome	39201	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Torulaspora	3	23.9872	2.29885
+LK392300.1	381046	Lachancea thermotolerans	Lachancea thermotolerans complete mitochondrial genome, strain DMKU-RK361	25121	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Lachancea	3	23.8723	0
+NC_022165.1	1378263	Ogataea philodendri	Ogataea philodendri strain CBS 6075 mitochondrion, complete genome	27063	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Ogataea	4	23.8704	0
+DQ376035.2	5480	Candida parapsilosis	Candida parapsilosis strain CLIB214 mitochondrion, complete genome	32750	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	23.8073	0
+JQ062883.1	5480	Candida parapsilosis	Candida parapsilosis strain CBS 6318 mitochondrion, partial genome	32749	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	23.8073	0
+NC_005253.2	5480	Candida parapsilosis	Candida parapsilosis mitochondrion, complete genome	32745	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	23.8073	0
+NC_045199.1	41956	Amanita muscaria	Amanita muscaria mitochondrion, complete genome	62233	Basidiomycota	Agaricomycetes	Agaricales	Amanitaceae	Amanita	4	23.7343	0
+NC_036748.1	588727	Kazachstania sinensis	Kazachstania sinensis culture NRRL:Y-27222 mitochondrion, complete genome	38566	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kazachstania	3	23.6265	0
+HE983612.1	1266666	Lachancea nothofagi CBS 11611	Lachancea nothofagi CBS 11611 complete mitochondrial genome	24077	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Lachancea	3	23.6208	0
+NC_045197.1	87326	Amanita brunnescens	Amanita brunnescens mitochondrion, complete genome	62533	Basidiomycota	Agaricomycetes	Agaricales	Amanitaceae	Amanita	4	23.5801	0
+NC_012824.1	5551	Trichophyton rubrum	Trichophyton rubrum mitochondrion, complete genome	26985	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Trichophyton	4	23.5382	0
+NC_012828.1	74035	Arthroderma uncinatum	Arthroderma uncinatum mitochondrion, complete genome	28530	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Arthroderma	4	23.4737	0
+NC_007394.1	34391	Epidermophyton floccosum	Epidermophyton floccosum mitochondrion, complete genome	30910	Ascomycota	Eurotiomycetes	Onygenales	Arthrodermataceae	Epidermophyton	4	23.4337	0
+NC_044676.1	208960	Fomitiporia mediterranea	Fomitiporia mediterranea strain MF3/22 mitochondrion, complete genome	115036	Basidiomycota	Agaricomycetes	Hymenochaetales	Hymenochaetaceae	Fomitiporia	4	23.4021	0
+NC_042772.1	89243	Laccaria amethystina	Laccaria amethystina mitochondrion, complete genome	65156	Basidiomycota	Agaricomycetes	Agaricales	Tricholomataceae	Laccaria	4	23.3856	0
+NC_045195.1	1262671	Amanita basii	Amanita basii mitochondrion, complete genome	37341	Basidiomycota	Agaricomycetes	Agaricales	Amanitaceae	Amanita	4	23.3844	0.403226
+NC_039931.1	1659845	Sanghuangporus sanghuang	Sanghuangporus sanghuang strain KACC54185 mitochondrion, complete genome	112060	Basidiomycota	Agaricomycetes	Hymenochaetales	Hymenochaetaceae	Sanghuangporus	4	23.2129	0
+NC_016130.1	1608523	Yarrowia deformans	Candida deformans mitochondrion, complete genome	40665	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Yarrowia	3	23.1759	0
+NC_037773.1	40490	Russula compacta	Russula compacta mitochondrion, complete genome	69423	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Russula	4	23.0909	0
+NC_013255.1	4920	Millerozyma farinosa	Millerozyma farinosa mitochondrion, complete genome	39107	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Millerozyma	3	22.9872	0
+NC_003053.1	60187	Rhizophydium sp. 136	Rhizophydium sp. 136 mitochondrion, complete genome	68834	Chytridiomycota	Chytridiomycetes	Rhizophydiales	Rhizophydiaceae	Rhizophydium	16	22.9753	0
+NC_041555.1	430498	Dactylellina haptotyla	Dactylellina haptotyla mitochondrion, complete genome	146101	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	Dactylellina	4	22.9199	0
+NC_016124.1	479092	Yarrowia alimentaria	Candida alimentaria mitochondrion, complete genome	35173	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Yarrowia	3	22.8433	0
+NC_016126.1	444778	Yarrowia phangngaensis	Candida phangngaensis voucher CBS:10407 mitochondrion, complete genome	28017	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Yarrowia	3	22.7993	0
+NC_016116.1	197054	Yarrowia galli	Candida galli mitochondrion, complete genome	48508	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Yarrowia	3	22.7802	0
+NC_024555.1	984962	Heterobasidion irregulare	Heterobasidion irregulare strain TC 32-1 mitochondrion, complete genome	114193	Basidiomycota	Agaricomycetes	Russulales	Bondarzewiaceae	Heterobasidion	4	22.7744	0
+NC_022166.1	599730	Wickerhamomyces pijperi	Wickerhamomyces pijperi strain CBS 2887 mitochondrion, complete genome	23268	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Wickerhamomyces	4	22.7441	0
+NC_002659.1	4952	Yarrowia lipolytica	Yarrowia lipolytica mitochondrion, complete genome	47916	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Yarrowia	4	22.7043	0
+AP018713.1	498019	[Candida] auris	[Candida] auris JCM 15448 mitochondrial DNA, complete sequence	27071	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Clavispora	3	22.7	0
+KC993177.1	4952	Yarrowia lipolytica	Yarrowia lipolytica strain CBS 599 mitochondrion, complete genome	47895	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Yarrowia	4	22.604	0
+CP017559.1	4952	Yarrowia lipolytica	Yarrowia lipolytica strain CLIB89(W29) mitochondrion, complete genome	47926	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Yarrowia	4	22.5893	0
+MH319476.1	1886493	Lactarius sp. (in: Russulaceae)	Lactarius sp. (in: Russulaceae) mitochondrion, complete genome	47389	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Lactarius	4	22.5249	0.31746
+MH138077.1	1886493	Lactarius sp. (in: Russulaceae)	Lactarius sp. (in: Russulaceae) mitochondrion, complete genome	40961	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Lactarius	4	22.5153	0.3663
+NC_004918.1	27293	Kazachstania servazzii	Saccharomyces servazzii mitochondrion, complete genome	30782	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kazachstania	3	22.4911	0
+NC_022158.1	36015	Pichia kluyveri	Pichia kluyveri strain CBS 7907 mitochondrion, complete genome	43128	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	4	22.439	0
+NC_038054.1	71967	Lactarius volemus	Lactarius volemus mitochondrion, complete genome	38445	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Lactarius	4	22.4219	0.390625
+NC_037776.1	152963	Russula lepida	Russula lepida mitochondrion, complete genome	56008	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Russula	4	22.3557	0.268097
+NC_022435.1	536035	Candida prachuapensis	Candida prachuapensis mitochondrion, complete genome	90840	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	3	22.3317	0
+NC_038223.1	64660	Lyophyllum decastes	Lyophyllum decastes mitochondrion, complete genome	50643	Basidiomycota	Agaricomycetes	Agaricales	Lyophyllaceae	Lyophyllum	4	22.2948	0
+NC_036376.1	1136883	Torulaspora microellipsoides	Torulaspora microellipsoides strain Y-17058 mitochondrion, complete genome	34709	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Torulaspora	3	22.1847	0
+NC_013830.1	5479	Candida maltosa	Candida maltosa mitochondrion, complete genome	62949	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	22.0573	0
+NC_015384.1	981350	Komagataella phaffii CBS 7435	Pichia pastoris CBS 7435 mitochondrion, complete genome	35683	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Komagataella	4	22.0534	0
+HE983614.1	1266667	Lachancea meyersii CBS 8951	Lachancea meyersii CBS 8951 complete mitochondrial genome	35864	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Lachancea	3	22.053	0
+NC_022434.1	561986	Candida bohioensis	Candida bohiensis mitochondrion, complete genome	69218	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	3	21.9234	0.21692
+NC_003049.1	5334	Schizophyllum commune	Schizophyllum commune mitochondrion, complete genome	49704	Basidiomycota	Agaricomycetes	Agaricales	Schizophyllaceae	Schizophyllum	4	21.8731	0.302115
+NC_045203.1	71150	Paxillus involutus	Paxillus involutus mitochondrion, complete genome	39109	Basidiomycota	Agaricomycetes	Boletales	Paxillaceae	Paxillus	4	21.7718	0
+NC_015814.1	434044	Candida frijolesensis	Candida frijolesensis mitochondrion, complete genome	37215	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	21.5591	0
+NC_044133.1	29893	Auricularia polytricha	Auricularia polytricha mitochondrion, complete genome	76297	Basidiomycota	Agaricomycetes	Auriculariales	Auriculariaceae	Auricularia	4	21.5446	0
+NC_037774.1	482377	Russula abietina	Russula abietina mitochondrion, complete genome	67683	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Russula	4	21.5344	0.221729
+NC_038055.1	55514	Lactarius deliciosus	Lactarius deliciosus mitochondrion, complete genome	53895	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Lactarius	4	21.532	0.278552
+NC_037775.1	131541	Russula foetens	Russula foetens mitochondrion, complete genome	58585	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Russula	4	21.5282	0
+NC_027457.1	35629	Torulaspora pretoriensis	Torulaspora pretoriensis strain YB2430 mitochondrion, complete genome	33343	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Torulaspora	3	21.4895	0
+NC_042699.1	80600	Rhizopogon vinicolor	Rhizopogon vinicolor mitochondrion, complete genome	77109	Basidiomycota	Agaricomycetes	Boletales	Rhizopogonaceae	Rhizopogon	4	21.4591	0
+NC_042698.1	176626	Rhizopogon salebrosus	Rhizopogon salebrosus mitochondrion, complete genome	66704	Basidiomycota	Agaricomycetes	Boletales	Rhizopogonaceae	Rhizopogon	4	21.4505	0.225225
+NC_038205.1	416442	Lactarius hatsudake	Lactarius hatsudake mitochondrion, complete genome	46808	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Lactarius	4	21.3547	0.320513
+NC_005972.1	1247836	Starmerella bacillaris	Candida zemplinina mitochondrion, complete genome	23114	Ascomycota	Saccharomycetes	Saccharomycetales	Starmerella		3	21.3333	0
+MK571437.1	80661	Phlebopus portentosus	Phlebopus portentosus mitochondrion, complete genome	43299	Basidiomycota	Agaricomycetes	Boletales	Boletinellaceae	Phlebopus	4	21.3148	0
+NC_031346.1	796027	Sugiyamaella lignohabitans	Sugiyamaella lignohabitans strain CBS 10342 mitochondrion genome	43869	Ascomycota	Saccharomycetes	Saccharomycetales	Trichomonascaceae	Sugiyamaella	3	21.3128	0
+HE983611.1	1266660	Lachancea dasiensis CBS 10888	Lachancea dasiensis CBS 10888 complete mitochondrial genome	26326	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Lachancea	3	21.261	0
+NC_037777.1	71688	Russula virescens	Russula virescens mitochondrion, complete genome	48512	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Russula	4	21.259	0
+NC_038056.1	71966	Lactarius piperatus	Lactarius piperatus mitochondrion, complete genome	60843	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Lactarius	4	21.149	0
+NC_045293.1	258989	Russula subnigricans	Russula subnigricans strain CX24 mitochondrion, complete genome	60949	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Russula	4	21.0739	0.246305
+NC_013145.2	13368	Brettanomyces custersianus	Brettanomyces custersianus mitochondrion, complete genome	30058	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Brettanomyces	4	21.0567	0
+KC993181.1	907738	Cyberlindnera suaveolens	Cyberlindnera suaveolens strain CBS 255 mitochondrion, complete genome	49704	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Cyberlindnera	4	21.0433	0
+NC_045204.1	463315	Paxillus rubicundulus	Paxillus rubicundulus mitochondrion, complete genome	41061	Basidiomycota	Agaricomycetes	Boletales	Paxillaceae	Paxillus	4	21.0403	0
+NC_007935.1	121759	Paracoccidioides brasiliensis	Paracoccidioides brasiliensis mitochondrion, complete genome	71335	Ascomycota	Eurotiomycetes	Onygenales	Paracoccidioides		4	21.0133	1.05263
+NC_038206.1	1837245	Lactifluus hygrophoroides	Lactifluus hygrophoroides mitochondrion, complete genome	48541	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Lactifluus	4	20.9515	0
+HQ267968.1	434040	Candida alai	Candida alai culture-collection NRRL:Y-27739 mitochondrion, complete genome	30368	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	20.9373	0
+NC_022164.1	51918	[Candida] vartiovaarae	Candida vartiovaarae strain CBS 4289 mitochondrion, complete genome	33201	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Cyberlindnera	4	20.8929	0
+KM595071.1	35629	Torulaspora pretoriensis	Torulaspora pretoriensis strain CBS 2187 mitochondrion, complete genome	35557	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Torulaspora	3	20.7595	0
+NC_028135.1	40145	Tricholoma matsutake	Tricholoma matsutake mitochondrion, complete genome	76037	Basidiomycota	Agaricomycetes	Agaricales	Tricholomataceae	Tricholoma	4	20.7009	0.197628
+LC385608.1	40145	Tricholoma matsutake	Tricholoma matsutake Y-1 mitochondrial DNA, complete genome	76089	Basidiomycota	Agaricomycetes	Agaricales	Tricholomataceae	Tricholoma	4	20.6982	0
+MN427435.1	466936	Russula griseocarnosa	Russula griseocarnosa mitochondrion, complete genome	60995	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Russula	4	20.642	0
+NC_014805.1	870730	Ogataea angusta	Ogataea angusta mitochondrion, complete genome	41719	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Ogataea	3	20.6283	0
+NC_022167.1	907738	Cyberlindnera suaveolens	Cyberlindnera suaveolens strain CBS 1670 mitochondrion, complete genome	51521	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Cyberlindnera	4	20.5364	0
+NC_022170.1	434042	Candida labiduridarum	Candida labiduridarum strain NRRL Y-27940 mitochondrion, complete genome	39443	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	4	20.5318	0
+KY989226.1	27288	Naumovozyma castellii	Naumovozyma castellii strain Y-17050 mitochondrion, complete genome	27282	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Naumovozyma	3	20.523	0
+KY989227.1	27288	Naumovozyma castellii	Naumovozyma castellii strain Y-12631 mitochondrion, complete genome	25797	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Naumovozyma	3	20.4873	0
+NC_003920.1	27288	Naumovozyma castellii	Saccharomyces castellii mitochondrion, complete genome	25753	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Naumovozyma	3	20.4133	0
+KY989229.1	27288	Naumovozyma castellii	Naumovozyma castellii strain Y-664 mitochondrion, complete genome	25683	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Naumovozyma	3	20.4133	0
+NC_024093.1	44077	Magnusiomyces ingens	Magnusiomyces ingens mitochondrion, complete genome	37684	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Magnusiomyces	3	20.3612	0
+NC_036374.1	42258	Zygosaccharomyces mellis	Zygosaccharomyces mellis strain Y-12628 mitochondrion, complete genome	24335	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Zygosaccharomyces	3	20.3128	0
+NC_014613.1	49332	Groenewaldozyma salmanticensis	Candida salmanticensis mitochondrion, complete genome	27812	Ascomycota	Saccharomycetes	Saccharomycetales	Trichomonascaceae	Groenewaldozyma	4	20.2595	0
+NC_029458.1	45286	Eremothecium sinecaudum	Eremothecium sinecaudum strain ATCC 58844 mitochondrion, complete genome	26238	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Eremothecium	3	20.092	0
+HE983613.1	1230905	Lachancea mirantina	Lachancea mirantina complete mitochondrial genome, strain CBS11717	30232	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Lachancea	3	19.8574	0
+NC_004332.1	4897	Schizosaccharomyces japonicus	Schizosaccharomyces japonicus mitochondrion, complete genome	80059	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomycetaceae	Schizosaccharomyces	4	19.7624	0
+NC_022151.1	369265	Ogataea thermophila	Ogataea thermophila strain NCAIM Y.01608 mitochondrion, complete genome	53262	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Ogataea	4	19.6075	0
+NC_022159.1	36038	Barnettozyma californica	Barnettozyma californica strain CBS 252 mitochondrion, complete genome	48471	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Barnettozyma	4	19.2446	0
+NC_031515.1	27292	Saccharomyces pastorianus	Saccharomyces pastorianus strain NRRL Y-27171 mitochondrion, complete genome	69019	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	19.1783	0.217391
+NC_039589.1	264141	Hygrophorus russula	Hygrophorus russula strain SLZ1 mitochondrion, complete genome	55769	Basidiomycota	Agaricomycetes	Agaricales	Hygrophoraceae	Hygrophorus	4	19.1375	0
+NC_012145.1	520522	Saccharomyces pastorianus Weihenstephan 34/70	Saccharomyces pastorianus Weihenstephan 34/70 mitochondrion, complete genome	70578	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	19.0965	0
+NC_005789.1	284811	Eremothecium gossypii ATCC 10895	Ashbya gossypii ATCC 10895 mitochondrion, complete genome	23564	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Eremothecium	3	18.811	0
+NC_016756.1	1034331	Eremothecium gossypii FDAG1	Ashbya gossypii FDAG1 mitochondrion, complete genome	23497	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Eremothecium	3	18.7778	0
+NC_022163.1	4903	Cyberlindnera jadinii	Cyberlindnera jadinii strain CBS 1600 mitochondrion, complete genome	41644	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Cyberlindnera	4	18.6859	0
+NC_036375.1	1143185	Torulaspora quercuum	Torulaspora quercuum strain XZ-46A mitochondrion, complete genome	33299	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Torulaspora	3	18.5249	0
+NC_006837.1	1213189	Zancudomyces culisetae	Smittium culisetae mitochondrion, complete genome	58654	Zoopagomycota	Harpellomycetes	Harpellales	Legeriomycetaceae	Zancudomyces	4	18.4996	0
+KU920677.1	1143185	Torulaspora quercuum	Torulaspora quercuum strain 17YF mitochondrion, complete genome	33739	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Torulaspora	3	18.2321	0
+NC_001762.1	1156965	Wickerhamomyces canadensis	Pichia canadensis mitochondrion, complete genome	27694	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Wickerhamomyces	4	18.1703	0
+CP006476.1	1294305	Saccharomyces cerevisiae YJM195	Saccharomyces cerevisiae YJM195 mitochondrion, complete genome	78961	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	17.9962	0.570342
+NC_033903.1	100756	Hericium coralloides	Hericium coralloides strain tvtc0002 mitochondrion, complete genome	72961	Basidiomycota	Agaricomycetes	Russulales	Hericiaceae	Hericium	4	17.9547	0
+CP006534.1	1294357	Saccharomyces cerevisiae YJM1385	Saccharomyces cerevisiae YJM1385 mitochondrion, complete genome	92176	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	17.9099	0.162866
+CP006517.1	1294340	Saccharomyces cerevisiae YJM1248	Saccharomyces cerevisiae YJM1248 mitochondrion, complete genome	81013	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	17.621	0.37037
+NC_004691.1	284593	[Candida] glabrata CBS 138	Candida glabrata mitochondrion, complete genome	20063	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Nakaseomyces	3	17.614	0
+NC_022175.1	49330	[Candida] norvegica	Candida norvegica strain CBS 2874 mitochondrion, complete genome	42180	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Barnettozyma	4	17.6062	0
+CP006258.1	566037	Saccharomycetaceae sp. &apos;Ashbya aceri&apos;	Saccharomycetaceae sp. &apos;Ashbya aceri&apos; mitochondrion, complete genome	26996	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae		3	17.594	0
+CP006549.1	1294372	Saccharomyces cerevisiae YJM1439	Saccharomyces cerevisiae YJM1439 mitochondrion, complete genome	80882	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	17.5622	0.185529
+NW_017264706.1	1080349	Saccharomyces eubayanus	Saccharomyces eubayanus strain FM1318 mitochondrion, complete sequence, whole genome shotgun sequence	63999	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	17.5133	0
+NC_022171.1	1378264	Wickerhamomyces mucosus	Wickerhamomyces mucosus strain CBS 6341 mitochondrion, complete genome	46416	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Wickerhamomyces	4	17.4995	0
+CP006518.1	1294341	Saccharomyces cerevisiae YJM1250	Saccharomyces cerevisiae YJM1250 mitochondrion, complete genome	88746	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	17.471	0.338409
+CM008094.1	5478	[Candida] glabrata	[Candida] glabrata strain DSY562 mitochondrion, complete sequence, whole genome shotgun sequence	20086	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Nakaseomyces	3	17.4637	0
+CM008107.1	5478	[Candida] glabrata	[Candida] glabrata strain DSY565 mitochondrion, complete sequence, whole genome shotgun sequence	20086	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Nakaseomyces	3	17.4637	0
+NC_036379.1	418086	[Candida] nivariensis	[Candida] nivariensis strain Y-48269 mitochondrion, complete genome	28524	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Nakaseomyces	3	17.4246	0
+CP006533.1	1294356	Saccharomyces cerevisiae YJM1383	Saccharomyces cerevisiae YJM1383 mitochondrion, complete genome	86820	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	17.3691	0.519031
+HE664112.1	4934	Lachancea kluyveri	Lachancea kluyveri complete mitochondrial genome, strain CBS5828	53726	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Lachancea	3	17.2961	0
+CP006475.1	1294304	Saccharomyces cerevisiae YJM193	Saccharomyces cerevisiae YJM193 mitochondrion, complete genome	84644	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	17.2199	1.06383
+CP006497.1	1294322	Saccharomyces cerevisiae YJM693	Saccharomyces cerevisiae YJM693 mitochondrion, complete genome	89161	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	17.2065	0.16835
+CP006480.1	1294309	Saccharomyces cerevisiae YJM271	Saccharomyces cerevisiae YJM271 mitochondrion, complete genome	84530	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	17.1533	0.17762
+NC_001224.1	559292	Saccharomyces cerevisiae S288C	Saccharomyces cerevisiae S288c mitochondrion, complete genome	85779	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	17.1033	0.175131
+NC_036023.1	1003335	Kluyveromyces marxianus DMKU3-1042	Kluyveromyces marxianus DMKU3-1042 mitochondrial DNA, complete genome	46308	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	3	16.9957	0
+CP006532.1	1294355	Saccharomyces cerevisiae YJM1381	Saccharomyces cerevisiae YJM1381 mitochondrion, complete genome	83874	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.9314	0.178891
+NC_025331.1	4911	Kluyveromyces marxianus	Kluyveromyces marxianus strain NBRC 1777 mitochondrion, complete genome	46256	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	3	16.9264	0
+CP006508.1	1292971	Saccharomyces cerevisiae YJM1083	Saccharomyces cerevisiae YJM1083 mitochondrion, complete genome	89444	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.9262	0.167785
+CP006492.1	1294317	Saccharomyces cerevisiae YJM627	Saccharomyces cerevisiae YJM627 mitochondrion, complete genome	80791	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.9244	0.371747
+CP006564.1	1294387	Saccharomyces cerevisiae YJM1592	Saccharomyces cerevisiae YJM1592 mitochondrion, complete genome	80788	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.8687	0.185874
+CP006538.1	1294361	Saccharomyces cerevisiae YJM1389	Saccharomyces cerevisiae YJM1389 mitochondrion, complete genome	80794	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.8686	0.185874
+HE774664.1	4934	Lachancea kluyveri	Lachancea kluyveri complete mitochondrial genome, strain CBS 6547	50137	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Lachancea	3	16.7345	0
+CP006528.1	1294351	Saccharomyces cerevisiae YJM1341	Saccharomyces cerevisiae YJM1341 mitochondrion, complete genome	84119	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.6119	0.178571
+CP006494.1	1294319	Saccharomyces cerevisiae YJM682	Saccharomyces cerevisiae YJM682 mitochondrion, complete genome	88887	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.5867	0.506757
+CP006495.1	1294320	Saccharomyces cerevisiae YJM683	Saccharomyces cerevisiae YJM683 mitochondrion, complete genome	88953	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.5734	0
+CP006554.1	1294377	Saccharomyces cerevisiae YJM1460	Saccharomyces cerevisiae YJM1460 mitochondrion, complete genome	82773	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.5554	0
+CP006555.1	1294378	Saccharomyces cerevisiae YJM1463	Saccharomyces cerevisiae YJM1463 mitochondrion, complete genome	79676	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.5549	0.188324
+CP006482.1	468558	Saccharomyces cerevisiae YJM326	Saccharomyces cerevisiae YJM326 mitochondrion, complete genome	91172	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.5546	0
+JF799107.1	38945	Flammulina velutipes	Flammulina velutipes mitochondrion, complete genome	88395	Basidiomycota	Agaricomycetes	Agaricales	Physalacriaceae	Flammulina	4	16.5467	0
+CP006522.2	1294345	Saccharomyces cerevisiae YJM1307	Saccharomyces cerevisiae YJM1307 mitochondrion, complete genome	79737	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.5298	0
+CP006483.1	947044	Saccharomyces cerevisiae YJM428	Saccharomyces cerevisiae YJM428 mitochondrion, complete genome	85782	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.5196	0
+CP006535.1	1294358	Saccharomyces cerevisiae YJM1386	Saccharomyces cerevisiae YJM1386 mitochondrion, complete genome	85554	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.5053	0.175439
+NC_021373.1	38945	Flammulina velutipes	Flammulina velutipes strain 4019-20 mitochondrion, complete genome	88508	Basidiomycota	Agaricomycetes	Agaricales	Physalacriaceae	Flammulina	4	16.4983	0
+CP006537.1	1294360	Saccharomyces cerevisiae YJM1388	Saccharomyces cerevisiae YJM1388 mitochondrion, complete genome	77572	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.4616	0.193424
+CP006563.1	1294386	Saccharomyces cerevisiae YJM1574	Saccharomyces cerevisiae YJM1574 mitochondrion, complete genome	79923	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.4261	0.37594
+CP006478.1	1294307	Saccharomyces cerevisiae YJM248	Saccharomyces cerevisiae YJM248 mitochondrion, complete genome	86593	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.3813	0.17331
+CP006530.2	1294353	Saccharomyces cerevisiae YJM1355	Saccharomyces cerevisiae YJM1355 mitochondrion, complete genome	79419	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.3806	0.189036
+NC_031512.1	230603	Saccharomyces uvarum	Saccharomyces uvarum strain CBS 395 mitochondrion, complete genome	64779	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.3666	0
+CP028778.1	4909	Pichia kudriavzevii	Pichia kudriavzevii strain CBS573 mitochondrion, complete genome	51340	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	3	16.3606	0
+CP006513.1	1294336	Saccharomyces cerevisiae YJM1202	Saccharomyces cerevisiae YJM1202 mitochondrion, complete genome	90638	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.3245	0
+CP006512.1	1294335	Saccharomyces cerevisiae YJM1199	Saccharomyces cerevisiae YJM1199 mitochondrion, complete genome	90633	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.3234	0
+NC_031513.1	4931	Saccharomyces bayanus	Saccharomyces bayanus strain CBS 380 mitochondrion, complete genome	64736	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.3202	0
+CP006521.1	1294344	Saccharomyces cerevisiae YJM1304	Saccharomyces cerevisiae YJM1304 mitochondrion, complete genome	81083	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.3074	0
+CP006525.1	1294348	Saccharomyces cerevisiae YJM1332	Saccharomyces cerevisiae YJM1332 mitochondrion, complete genome	81501	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.2885	0.368324
+CP006557.1	1294380	Saccharomyces cerevisiae YJM1478	Saccharomyces cerevisiae YJM1478 mitochondrion, complete genome	83765	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.2808	0.358423
+CP004115.1	1296266	Saccharomyces cerevisiae YJM1078	Saccharomyces cerevisiae YJM1078 mitochondrion, complete genome	82025	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.2527	0.18315
+KP712781.1	4932	Saccharomyces cerevisiae	Saccharomyces cerevisiae isolate DBVPG1106 mitochondrion, complete genome	78172	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.2508	0
+CP006559.1	1294382	Saccharomyces cerevisiae YJM1526	Saccharomyces cerevisiae YJM1526 mitochondrion, complete genome	81825	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.2446	0.366972
+CP006510.1	1294333	Saccharomyces cerevisiae YJM1133	Saccharomyces cerevisiae YJM1133 mitochondrion, complete genome	84963	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.2426	0.176678
+BEGW01000033.1	4932	Saccharomyces cerevisiae	Saccharomyces cerevisiae DNA, contig: mitochondrion, whole genome shotgun sequence	79230	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.2285	0.189394
+CP006546.1	1294369	Saccharomyces cerevisiae YJM1419	Saccharomyces cerevisiae YJM1419 mitochondrion, complete genome	84604	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.2258	0
+CP006509.1	1293430	Saccharomyces cerevisiae YJM1129	Saccharomyces cerevisiae YJM1129 mitochondrion, complete genome	81706	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.2194	0.183824
+CP006486.1	1294311	Saccharomyces cerevisiae YJM453	Saccharomyces cerevisiae YJM453 mitochondrion, complete genome	82494	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.2137	0.364299
+CP006523.1	1294346	Saccharomyces cerevisiae YJM1311	Saccharomyces cerevisiae YJM1311 mitochondrion, complete genome	87022	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.2092	0.172414
+CP006541.1	1294364	Saccharomyces cerevisiae YJM1401	Saccharomyces cerevisiae YJM1401 mitochondrion, complete genome	81306	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.2017	0.184502
+CP006489.1	1294314	Saccharomyces cerevisiae YJM541	Saccharomyces cerevisiae YJM541 mitochondrion, complete genome	87003	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1736	0.172414
+CP006490.1	1294315	Saccharomyces cerevisiae YJM554	Saccharomyces cerevisiae YJM554 mitochondrion, complete genome	87008	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1713	0.344828
+CP006484.1	1294310	Saccharomyces cerevisiae YJM450	Saccharomyces cerevisiae YJM450 mitochondrion, complete genome	86522	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1678	0.173611
+CP006481.1	947042	Saccharomyces cerevisiae YJM320	Saccharomyces cerevisiae YJM320 mitochondrion, complete genome	86949	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1612	0.345423
+CP006485.1	502869	Saccharomyces cerevisiae YJM451	Saccharomyces cerevisiae YJM451 mitochondrion, complete genome	84234	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1545	0
+CP006565.1	1294388	Saccharomyces cerevisiae YJM1615	Saccharomyces cerevisiae YJM1615 mitochondrion, complete genome	84325	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.153	0.177936
+CP006543.1	1294366	Saccharomyces cerevisiae YJM1415	Saccharomyces cerevisiae YJM1415 mitochondrion, complete genome	83950	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1443	0.178891
+CP006504.1	1294329	Saccharomyces cerevisiae YJM987	Saccharomyces cerevisiae YJM987 mitochondrion, complete genome	78974	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1369	0.570342
+CP006501.1	1294326	Saccharomyces cerevisiae YJM978	Saccharomyces cerevisiae YJM978 mitochondrion, complete genome	78916	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1369	0.570342
+CP006502.1	1294327	Saccharomyces cerevisiae YJM981	Saccharomyces cerevisiae YJM981 mitochondrion, complete genome	78916	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1369	0.570342
+CP006505.1	1294330	Saccharomyces cerevisiae YJM990	Saccharomyces cerevisiae YJM990 mitochondrion, complete genome	78916	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1369	0.570342
+NC_027264.1	4932	Saccharomyces cerevisiae	Saccharomyces cerevisiae isolate NCYC3594 mitochondrion, complete genome	78917	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1356	0.570342
+CP006516.1	1294339	Saccharomyces cerevisiae YJM1244	Saccharomyces cerevisiae YJM1244 mitochondrion, complete genome	83285	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1345	0.18018
+CP006500.1	1294325	Saccharomyces cerevisiae YJM975	Saccharomyces cerevisiae YJM975 mitochondrion, complete genome	78950	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1343	0.570342
+CP006499.1	1294324	Saccharomyces cerevisiae YJM972	Saccharomyces cerevisiae YJM972 mitochondrion, complete genome	78907	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1331	0.570342
+CP006503.1	1294328	Saccharomyces cerevisiae YJM984	Saccharomyces cerevisiae YJM984 mitochondrion, complete genome	78907	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1331	0.570342
+CP006506.1	1294331	Saccharomyces cerevisiae YJM993	Saccharomyces cerevisiae YJM993 mitochondrion, complete genome	78907	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1331	0.570342
+CP006507.1	1294332	Saccharomyces cerevisiae YJM996	Saccharomyces cerevisiae YJM996 mitochondrion, complete genome	78907	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1331	0.570342
+KP712791.1	4932	Saccharomyces cerevisiae	Saccharomyces cerevisiae isolate L1528 mitochondrion, complete genome	82253	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1277	0.182482
+CP006514.1	1294337	Saccharomyces cerevisiae YJM1208	Saccharomyces cerevisiae YJM1208 mitochondrion, complete genome	84252	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.126	0.356506
+CP006498.1	1294323	Saccharomyces cerevisiae YJM969	Saccharomyces cerevisiae YJM969 mitochondrion, complete genome	79066	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.124	0.379507
+CP006526.1	1294349	Saccharomyces cerevisiae YJM1336	Saccharomyces cerevisiae YJM1336 mitochondrion, complete genome	82967	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.1109	0.361664
+CM004311.1	4932	Saccharomyces cerevisiae	Saccharomyces cerevisiae strain GLBRCY22-3 mitochondrion, complete sequence, whole genome shotgun sequence	82897	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.0978	0
+CP006511.2	1294334	Saccharomyces cerevisiae YJM1190	Saccharomyces cerevisiae YJM1190 mitochondrion, complete genome	88996	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.0922	0
+CP006561.1	1294384	Saccharomyces cerevisiae YJM1549	Saccharomyces cerevisiae YJM1549 mitochondrion, complete genome	78275	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.0793	0.191939
+CP006488.1	1294313	Saccharomyces cerevisiae YJM470	Saccharomyces cerevisiae YJM470 mitochondrion, complete genome	83571	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.0778	0.179533
+NC_031184.1	114524	Saccharomyces kudriavzevii	Saccharomyces kudriavzevii mitochondrion, complete genome	72095	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.0681	0
+CP006544.1	1294367	Saccharomyces cerevisiae YJM1417	Saccharomyces cerevisiae YJM1417 mitochondrion, complete genome	82284	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.062	0.364964
+CP006496.1	1294321	Saccharomyces cerevisiae YJM689	Saccharomyces cerevisiae YJM689 mitochondrion, complete genome	84098	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.0524	0
+CP006519.1	1294342	Saccharomyces cerevisiae YJM1252	Saccharomyces cerevisiae YJM1252 mitochondrion, complete genome	83856	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.0465	0.357782
+CP006531.1	1294354	Saccharomyces cerevisiae YJM1356	Saccharomyces cerevisiae YJM1356 mitochondrion, complete genome	84849	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	16.0295	0
+AP012028.1	721032	Saccharomyces cerevisiae Kyokai no. 7	Saccharomyces cerevisiae Kyokai no. 7 mitochodrial DNA, complete genome	82005	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.989	0.18315
+EU004203.1	307796	Saccharomyces cerevisiae YJM789	Saccharomyces cerevisiae YJM789 mitochondrion, complete genome	86214	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.9559	0
+CP006547.1	1294370	Saccharomyces cerevisiae YJM1433	Saccharomyces cerevisiae YJM1433 mitochondrion, complete genome	81976	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.9512	0.3663
+CP006474.1	1294303	Saccharomyces cerevisiae YJM189	Saccharomyces cerevisiae YJM189 mitochondrion, complete genome	80811	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.9455	0.743494
+NC_031185.1	114525	Saccharomyces mikatae	Saccharomyces mikatae mitochondrion, complete genome	73485	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.925	0
+CP006527.1	1294350	Saccharomyces cerevisiae YJM1338	Saccharomyces cerevisiae YJM1338 mitochondrion, complete genome	80970	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.8615	0.185529
+NC_012619.1	51657	Nakaseomyces delphensis	Nakaseomyces delphensis mitochondrion, complete genome	37016	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Nakaseomyces	3	15.8482	0
+CP006493.1	1294318	Saccharomyces cerevisiae YJM681	Saccharomyces cerevisiae YJM681 mitochondrion, complete genome	81045	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.8432	0.185185
+NC_036377.1	27289	Naumovozyma dairenensis	Naumovozyma dairenensis strain Y-1353 mitochondrion, complete genome	46425	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Naumovozyma	3	15.795	0
+CP006536.1	1294359	Saccharomyces cerevisiae YJM1387	Saccharomyces cerevisiae YJM1387 mitochondrion, complete genome	80666	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.7939	0.558659
+CP006558.1	1294381	Saccharomyces cerevisiae YJM1479	Saccharomyces cerevisiae YJM1479 mitochondrion, complete genome	88309	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.7914	0.510204
+CP006540.2	1294363	Saccharomyces cerevisiae YJM1400	Saccharomyces cerevisiae YJM1400 mitochondrion, complete genome	88307	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.7891	0.510204
+KP712803.1	4932	Saccharomyces cerevisiae	Saccharomyces cerevisiae isolate DBVPG1788 mitochondrion, complete genome	79389	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.7807	0.378072
+MG269479.1	4932	Saccharomyces cerevisiae	Saccharomyces cerevisiae strain I-30 mitochondrion, complete genome	87571	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.7473	0
+MG269481.1	4932	Saccharomyces cerevisiae	Saccharomyces cerevisiae strain I-566 mitochondrion, complete genome	80886	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.7427	0
+CP006551.1	1294374	Saccharomyces cerevisiae YJM1444	Saccharomyces cerevisiae YJM1444 mitochondrion, complete genome	83736	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.7384	0
+CP006477.1	1294306	Saccharomyces cerevisiae YJM244	Saccharomyces cerevisiae YJM244 mitochondrion, complete genome	80737	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.7311	0.185874
+CP006524.1	1294347	Saccharomyces cerevisiae YJM1326	Saccharomyces cerevisiae YJM1326 mitochondrion, complete genome	85887	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.7075	0
+CP006479.1	1294308	Saccharomyces cerevisiae YJM270	Saccharomyces cerevisiae YJM270 mitochondrion, complete genome	82331	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.6934	0.182482
+CP006487.1	1294312	Saccharomyces cerevisiae YJM456	Saccharomyces cerevisiae YJM456 mitochondrion, complete genome	79631	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.6415	0.188679
+MG269480.1	4932	Saccharomyces cerevisiae	Saccharomyces cerevisiae strain I-329 mitochondrion, complete genome	80204	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.5431	0.187266
+CP006491.1	1294316	Saccharomyces cerevisiae YJM555	Saccharomyces cerevisiae YJM555 mitochondrion, complete genome	84193	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.5318	0
+CP006556.1	1294379	Saccharomyces cerevisiae YJM1477	Saccharomyces cerevisiae YJM1477 mitochondrion, complete genome	79244	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.5215	0.568182
+KY287650.1	27291	Saccharomyces paradoxus	Saccharomyces paradoxus mitochondrion, complete genome	80270	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.4754	0
+MH718505.1	230603	Saccharomyces uvarum	Saccharomyces uvarum strain r23 mitochondrion, partial genome	64682	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.437	0
+CP006515.1	1294338	Saccharomyces cerevisiae YJM1242	Saccharomyces cerevisiae YJM1242 mitochondrion, complete genome	95658	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.4139	0.313972
+KY287647.1	27291	Saccharomyces paradoxus	Saccharomyces paradoxus mitochondrion, complete genome	76223	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.3268	0
+NC_009638.1	36033	Vanderwaltozyma polyspora	Vanderwaltozyma polyspora mitochondrion, complete genome	21684	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Vanderwaltozyma	3	15.3009	0
+NC_031514.1	114526	Saccharomyces cariocanus	Saccharomyces cariocanus strain CBS 7994 mitochondrion, complete genome	77380	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.2647	0
+NC_013147.1	5007	Brettanomyces bruxellensis	Dekkera bruxellensis mitochondrion, complete genome	76453	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Brettanomyces	4	15.2102	0
+LS990930.1	5007	Brettanomyces bruxellensis	Brettanomyces bruxellensis genome assembly, scaffold: chrM, organelle: mitochondrion, whole genome shotgun sequence	75320	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Brettanomyces	4	15.1992	0
+NC_018056.1	4934	Lachancea kluyveri	Lachancea kluyveri mitochondrion, complete genome	51679	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Lachancea	3	15.1163	0
+CP006550.2	1294373	Saccharomyces cerevisiae YJM1443	Saccharomyces cerevisiae YJM1443 mitochondrion, complete genome	77958	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.115	0.192678
+HE774680.1	4934	Lachancea kluyveri	Lachancea kluyveri complete mitochondrial genome, strain 55-86.1	51464	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Lachancea	3	15.0826	0
+CP006553.1	1294376	Saccharomyces cerevisiae YJM1450	Saccharomyces cerevisiae YJM1450 mitochondrion, complete genome	76603	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.0641	0
+CP006539.1	1294362	Saccharomyces cerevisiae YJM1399	Saccharomyces cerevisiae YJM1399 mitochondrion, complete genome	73450	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	15.0252	0
+CP006560.1	1294383	Saccharomyces cerevisiae YJM1527	Saccharomyces cerevisiae YJM1527 mitochondrion, complete genome	78592	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.9815	0
+KY287641.1	27291	Saccharomyces paradoxus	Saccharomyces paradoxus mitochondrion, complete genome	73276	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.9262	0
+CP006545.1	1294368	Saccharomyces cerevisiae YJM1418	Saccharomyces cerevisiae YJM1418 mitochondrion, complete genome	76794	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.8519	0.195695
+KY287642.1	27291	Saccharomyces paradoxus	Saccharomyces paradoxus mitochondrion, complete genome	74030	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.7816	0
+KM595072.1	27291	Saccharomyces paradoxus	Saccharomyces paradoxus strain YPS138 mitochondrion, complete genome	71271	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.7396	0
+CP006520.1	1294343	Saccharomyces cerevisiae YJM1273	Saccharomyces cerevisiae YJM1273 mitochondrion, complete genome	77475	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.7339	0
+CP006548.1	1294371	Saccharomyces cerevisiae YJM1434	Saccharomyces cerevisiae YJM1434 mitochondrion, complete genome	77515	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.7313	0.193798
+CP006529.1	1294352	Saccharomyces cerevisiae YJM1342	Saccharomyces cerevisiae YJM1342 mitochondrion, complete genome	85762	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.6947	0
+NC_021611.1	281847	Rozella allomycis	Rozella allomycis mitochondrion, complete genome	12055	Cryptomycota	Rozella				4	14.475	0
+KY287648.1	27291	Saccharomyces paradoxus	Saccharomyces paradoxus mitochondrion, complete genome	77660	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.4436	0
+KX657741.1	706196	Saccharomyces arboricola	Saccharomyces arboricola strain NRRL Y-63701 mitochondrion, complete genome	69363	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.4286	0
+CP006542.1	1294365	Saccharomyces cerevisiae YJM1402	Saccharomyces cerevisiae YJM1402 mitochondrion, complete genome	78309	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.4125	0.191571
+CP006562.1	1294385	Saccharomyces cerevisiae YJM1573	Saccharomyces cerevisiae YJM1573 mitochondrion, complete genome	78385	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.4087	0
+NC_031511.1	706196	Saccharomyces arboricola	Saccharomyces arboricola strain CBS 10644 mitochondrion, complete genome	71124	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.3896	0
+KP712796.1	27291	Saccharomyces paradoxus	Saccharomyces paradoxus isolate N44 mitochondrion, complete genome	69821	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.2939	0
+KP712786.1	27291	Saccharomyces paradoxus	Saccharomyces paradoxus isolate IFO1804 mitochondrion, complete genome	70150	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.2827	0
+KP712782.1	27291	Saccharomyces paradoxus	Saccharomyces paradoxus isolate Q62.5 mitochondrion, complete genome	69634	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.1638	0
+NC_036380.1	273131	[Candida] bracarensis	[Candida] bracarensis strain Y-48270 mitochondrion, complete genome	46138	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Nakaseomyces	3	14.0999	0
+NC_018044.1	27291	Saccharomyces paradoxus	Saccharomyces paradoxus mitochondrion, complete genome	71355	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.0674	0
+CP006552.1	1294375	Saccharomyces cerevisiae YJM1447	Saccharomyces cerevisiae YJM1447 mitochondrion, complete genome	74237	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	14.0189	0.202429
+KP712793.1	27291	Saccharomyces paradoxus	Saccharomyces paradoxus isolate Y6.5 mitochondrion, complete genome	69461	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	13.9813	0
+KP712779.1	27291	Saccharomyces paradoxus	Saccharomyces paradoxus isolate S36.7 mitochondrion, complete genome	69473	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	13.9784	0
+KY287646.1	27291	Saccharomyces paradoxus	Saccharomyces paradoxus mitochondrion, complete genome	71351	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	3	13.8821	0
+NC_012620.1	51914	[Candida] castellii	Candida castellii mitochondrion, complete genome	50294	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Nakaseomyces	3	12.5871	0
+NC_012621.1	51660	Nakaseomyces bacillisporus	Nakaseomyces bacillisporus mitochondrion, complete genome	107123	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Nakaseomyces	3	10.887	0
+KU888698.1	36035	Saccharomycodes ludwigii	Saccharomycodes ludwigii strain Y-974 mitochondrion, complete genome	67017	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Saccharomycodes	3	8.43049	0
+NC_037703.1	36035	Saccharomycodes ludwigii	Saccharomycodes ludwigii strain Y-8871 mitochondrion, complete genome	66725	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Saccharomycodes	3	8.3979	0
+KU888697.1	36035	Saccharomycodes ludwigii	Saccharomycodes ludwigii strain Y-12860 mitochondrion, complete genome	68982	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Saccharomycodes	3	8.0915	0
+KU888695.1	36035	Saccharomycodes ludwigii	Saccharomycodes ludwigii strain Y-5447 mitochondrion, complete genome	65456	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Saccharomycodes	3	7.63456	0
