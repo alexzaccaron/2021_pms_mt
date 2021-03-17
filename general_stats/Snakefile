@@ -1,0 +1,93 @@
+SAMPLES=["MT880588", "MT880589", "MT880590", "MT880591"]
+
+rule all:
+   input:
+      expand("{sample}.fasta", sample=SAMPLES), 
+      expand("{sample}_selfblast_merged.bed", sample=SAMPLES),
+      expand("{sample}_repeats.txt", sample=SAMPLES),
+      expand("{sample}_fasta.stats", sample=SAMPLES),
+      #expand("{sample}_trf_out.txt", sample=SAMPLES),
+      expand("{sample1}_{sample2}_blastn.out", sample1=SAMPLES, sample2=SAMPLES),
+
+# download mt genomes with efetch
+rule download_genomes:
+   conda: "env.yml"
+   output: "{sample}.fasta"
+   shell: " efetch -db nuccore -id {wildcards.sample} -format fasta > {output} "
+
+
+# get general stats: length, GC, GC-skew and AT-skew
+rule general_stats:
+   conda: "env.yml"
+   input: "{sample}.fasta"
+   output: "{sample}_fasta.stats"
+   shell: """
+      seqtk comp {input} | awk -v OFS="\t" '{{len=$2; A=$3; C=$4; G=$5; T=$6}}END{{print len,(G+C)/len,(G-C)/(G+C),(A-T)/(A+T)}}' > {output}
+   """
+
+# run tandem repeat finder. Not available in Bioconda, you must have it in your path. Adjust binary name as necesary
+rule tandem_repeat_finder:
+   input: "{sample}.fasta"
+   output: dat="{sample}_trf_out.txt"
+   shell: """
+      # TRF returns fail flag, even when successful
+      trf409.macosx {input}  2 7 7 80 10 50 500 -h || true
+      mv {input}.*.dat  {output.dat}
+      grep ^[0-9] {output.dat} 
+
+   """
+
+# make blast databases to run blastn
+rule makeblastdb:
+   conda: "env.yml"
+   input: "{sample}.fasta"
+   output: "{sample}.fasta.nhr", "{sample}.fasta.nsq", "{sample}.fasta.nin"
+   shell: " makeblastdb -in {input} -dbtype nucl "
+
+
+# make self blastn searches to estimate repeat content
+rule selfblast:
+   conda: "env.yml"
+   input: fasta="{sample}.fasta", nhr="{sample}.fasta.nhr", nsq="{sample}.fasta.nsq", nin="{sample}.fasta.nin"
+   output: "{sample}_selfblast.txt"
+   shell: " blastn -query {input.fasta} -db {input.fasta} -evalue 1e-10 -task blastn -outfmt 6 -out {output} "
+
+
+# print out a sorted bed file from the self-blast output. The bed will actually be 1-based, but that's fine for our purpose
+rule make_bed:
+   input: "{sample}_selfblast.txt"
+   output: "{sample}_selfblast.bed"
+   shell: """
+      # ignore first hit, which is the entire sequence to itself
+      tail -n+2 {input} |                    \
+         awk -v OFS="\t" '{{print($1,$7,$8); \
+         if($9 < $10) print($1,$9,$10);      \
+         else print($1,$10,$9)}}' |          \
+         sort -k1,1 -k2,2n > {output}
+   """
+
+# merging bed regions considered repetitive
+rule merge_bed:
+   conda: "env.yml"
+   input: "{sample}_selfblast.bed"
+   output: "{sample}_selfblast_merged.bed"
+   shell: "bedtools merge -i {input} > {output}"
+
+
+# now sum merged bed regions
+rule count_repeats:
+   input: "{sample}_selfblast_merged.bed"
+   output: "{sample}_repeats.txt"
+   shell: " awk 'BEGIN{{ sum = 0}}{{ sum = sum+$3-$2+1 }}END{{print sum}}' {input} > {output} " 
+
+
+# rule to perform all pairwise blastn searches
+rule pariwise_blast:
+   conda: "env.yml"
+   input: query="{sample1}.fasta", ref="{sample2}.fasta", nhr1="{sample1}.fasta.nhr", nhr2="{sample2}.fasta.nhr"
+   output: "{sample1}_{sample2}_blastn.out"
+   shell: """
+       blastn  -query {input.query} -db {input.ref} -evalue 1e-10 -outfmt 6 -task blastn -out {output}
+   """
+
+   
