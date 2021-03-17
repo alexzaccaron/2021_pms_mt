@@ -8,6 +8,10 @@ rule all:
       expand("{sample}_fasta.stats", sample=SAMPLES),
       #expand("{sample}_trf_out.txt", sample=SAMPLES),
       expand("{sample1}_{sample2}_blastn.out", sample1=SAMPLES, sample2=SAMPLES),
+      "plots/mt_syntheny.pdf",
+      "plots/intron_length_boxplot.pdf",
+      "plots/genome_composition.pdf",
+      "plots/share_uniq.pdf"
 
 # download mt genomes with efetch
 rule download_genomes:
@@ -90,4 +94,15 @@ rule pariwise_blast:
        blastn  -query {input.query} -db {input.ref} -evalue 1e-10 -outfmt 6 -task blastn -out {output}
    """
 
-   
+rule plot_syntheny:
+   conda: "env.yml"
+   input: "MT880589_MT880588_blastn.out", "MT880590_MT880589_blastn.out", "MT880591_MT880590_blastn.out"
+   output: "plots/mt_syntheny.pdf"
+   shell: " Rscript scripts/mt_syntheny.R {output}"
+
+rule plot_genome_composition:
+   conda: "env.yml"
+   input: "data/genome_composition.txt", "data/introns_length.txt", "data/genome_shared_uniq.txt"
+   output: intron_len="plots/intron_length_boxplot.pdf", composition="plots/genome_composition.pdf", shared_uniq="plots/share_uniq.pdf"
+   shell: " Rscript scripts/genome_composition.R {output.intron_len} {output.composition} {output.shared_uniq}"
+

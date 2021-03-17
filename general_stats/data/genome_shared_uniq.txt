@@ -1,0 +1,9 @@
+Species	mtDNA	Bases
+Enec	Shared	139330
+Enec	Unique	49247
+Episi	Shared	142483
+Episi	Unique	46140
+Gcic	Shared	69619
+Gcic	Unique	262546
+BGT	Shared	30368
+BGT	Unique	79432

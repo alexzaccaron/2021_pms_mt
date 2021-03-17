@@ -1,0 +1,13 @@
+Species	Category	Length
+Enec	Intronic	139477
+Enec	Intergenic	28343
+Enec	Exonic	20757
+Episi	Intronic	123556
+Episi	Intergenic	43247
+Episi	Exonic	21820
+Gcic	Intronic	206694
+Gcic	Intergenic	103902
+Gcic	Exonic	21569
+BGT	Intronic	25956
+BGT	Intergenic	62989
+BGT	Exonic	20855

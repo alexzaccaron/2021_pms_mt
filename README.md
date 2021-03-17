@@ -8,6 +8,8 @@ In this directory there's a Snakefile that downloads the mt genomes and estimate
 
 Important output files are `{sample}_fasta.stats`, which contains four numbers: length, GC fraction, GC-skew, and AT-skew. The file `{sample}_repeats.txt` contains the estimate total base pairs that are likely repeats. This number is estimated based on self-blastn searches. Other useful files are `{sample}_{sample}_blastn.out`, which contains pairwise blastn searches results.
 
+There's a `scripts` subdirectory that contains R scripts to generate some plots. These plots will be in the sundirectory `plots`. One is a syntheny plot based on the pairwise blastn searches. Another is a boxplot that shows intron size, and the other shows total bases that correspond to exons, introns and intergenic regions. Note the subdirectory `data` that supplies input files to the R scripts to generate the plots.
+
 ### `download_mt_genomes_gc_hist`
 Contains a `Snakefile` that downloads with `efetch` >700 fungal mt genomes and makes a GC content histogram for each mt genome. GenBank accession numbers and other info of the mt genomes are in the TSV file `table_mt_genomes.txt`. Go to this directory and run:
 
