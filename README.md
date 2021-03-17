@@ -36,5 +36,14 @@ The heat map is plotted to `summary_table_identity.pdf`. The file `summary_table
 Because introns can have different sizes, the %identity is calculated with in `local-global` type, which means that the subject (sequence 2), must be entirely aligned (global), whereas subject (sequence 1), does not need to be aligned entirely (local). Size of subject is always at most the size of pattern. Alignment strategy can be changed in the `pairwiseAlignment()` within `getIdentity()` function.
 
 
+### `small_tree`
+In this directory there's a snakefile to construct a small tree with `IQTREE` based on mt genes.
+
+There's a `main_table.csv` with accession numbers of the proteins and info about the species. However, snakemake actually uses `main_table_melt.txt`, which is a melted version of `main_table.csv`. The R script `scripts/melt_main_table.R` can melt `main_table.csv`:
+```r=
+scripts/melt_main_table.R main_table.csv main_table.csv
+```
+
+Snakemake will perform all steps, from downloading the sequences with `efetch`, align sequences with `MAFFT` and construct a tree with `IQTREE`. The concatenated and thee tree files will be in the subdirectory `concatenated_alignment/`.
 
 ###### tags: `readme` `mt`

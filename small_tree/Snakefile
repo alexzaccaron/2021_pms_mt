@@ -1,0 +1,84 @@
+import pandas as pd
+
+
+samples_df = pd.read_table('main_table_melt.txt').set_index("filename", drop=False)
+SAMPLES = list(samples_df['filename'])
+GENES   = list(samples_df['gene'])
+
+
+rule download_all:
+    input:
+        expand("sequences/{sample}.fasta", sample=SAMPLES),
+        expand("sequences_grouped/{gene}.fasta", gene=GENES),
+        expand("sequences_aligned/{gene}_aligned.fasta", gene=GENES),
+        expand("sequences_aligned_trimmed/{gene}_trimmed.fasta", gene=GENES),
+        "concatenated_alignment/concatenated_alignment.fasta",
+        "concatenated_alignment/pxcat_parts_wag.txt.iqtree"
+        
+
+# rule to download sequences
+rule download_sequences:
+    conda: "env.yml"
+    input: "main_table_melt.txt"
+    output: "sequences/{sample}.fasta" 
+    params:
+        # dynamically grab the accession ID and taxID from the "accession" and "taxID" columns in the data frame
+        accession = lambda wildcards: samples_df.loc[wildcards.sample, "accession"],
+        taxID = lambda wildcards: samples_df.loc[wildcards.sample, "taxID"]
+    shell: """
+        # fetch from NCBI
+        efetch -db protein -id {params.accession} -format fasta > {output}
+        # trick here, replacing accession by taxID as sequence name. Useful downstream.
+        sed 's/^>{params.accession}/>{params.taxID}/g' {output} > auxfile
+        mv auxfile {output}
+        """
+
+# rule to group sequences by gene
+rule combine_sequences:
+   conda: "env.yml"
+   input: expand("sequences/{sample}.fasta", sample=SAMPLES)
+   output: "sequences_grouped/{gene}.fasta"
+   shell: """
+      cat sequences/*"_"{wildcards.gene}"_"* > {output}
+   """
+
+
+# rule to align sequences. Will generate one alignment per gene
+rule align_sequences:
+   conda: "env.yml"
+   input: "sequences_grouped/{gene}.fasta"
+   output: "sequences_aligned/{gene}_aligned.fasta"
+   shell: """
+      mafft --localpair --maxiterate 1000 {input} > {output}
+   """
+
+# now trim the alignments
+rule trim_alignments:
+   conda: "env.yml"
+   input: "sequences_aligned/{gene}_aligned.fasta"
+   output: "sequences_aligned_trimmed/{gene}_trimmed.fasta"
+   shell: """
+      trimal -nogaps -in {input} > {output}
+   """
+
+# condatenate the alignments into a superalignment
+rule concatenate_alignments:
+   conda: "env.yml"
+   input: expand("sequences_aligned_trimmed/{gene}_trimmed.fasta", gene=GENES)
+   output: "concatenated_alignment/concatenated_alignment.fasta", directory("concatenated_alignment")
+   shell: """
+      pxcat -s sequences_aligned_trimmed/*.fasta -p concatenated_alignment/pxcat_parts.txt -o {output}
+      # replace the AA in the parts.txt by WAG substitution model. Not sure if required, but IQTREE will select the best 
+      # model afterwards. The problem is that IQTREE does not recognize AA.
+      sed 's/^AA/WAG/g' concatenated_alignment/pxcat_parts.txt > concatenated_alignment/pxcat_parts_wag.txt 
+   """
+
+   
+rule build_tree:
+   conda: "env.yml"
+   input: "concatenated_alignment/concatenated_alignment.fasta"
+   output: "concatenated_alignment/pxcat_parts_wag.txt.iqtree"
+   params: outgroup=77105, partition="concatenated_alignment/pxcat_parts_wag.txt"
+   shell: """
+      iqtree -s {input} -o {params.outgroup} -T 1 -B 1000 -p {params.partition} -m MFP+MERGE
+   """

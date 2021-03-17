@@ -1,0 +1,61 @@
+organism	taxID	gene	accession	filename
+Erysiphe necator	52586	atp6	QQY98154.1	52586_atp6_QQY98154.1
+Erysiphe pisi	36044	atp6	QQY98232.1	36044_atp6_QQY98232.1
+Golovinomyces cichoracearum	62708	atp6	QQY98315.1	62708_atp6_QQY98315.1
+Blumeria graminis f. sp. tritici	62690	atp6	QQY98351.1	62690_atp6_QQY98351.1
+Sclerotinia borealis	77105	atp6	YP_009072362.1	77105_atp6_YP_009072362.1
+Erysiphe necator	52586	nad1	QQY98159.1	52586_nad1_QQY98159.1
+Erysiphe pisi	36044	nad1	QQY98237.1	36044_nad1_QQY98237.1
+Golovinomyces cichoracearum	62708	nad1	QQY98321.1	62708_nad1_QQY98321.1
+Blumeria graminis f. sp. tritici	62690	nad1	QQY98347.1	62690_nad1_QQY98347.1
+Sclerotinia borealis	77105	nad1	YP_009072356.1	77105_nad1_YP_009072356.1
+Erysiphe necator	52586	nad2	QQY98158.1	52586_nad2_QQY98158.1
+Erysiphe pisi	36044	nad2	QQY98236.1	36044_nad2_QQY98236.1
+Golovinomyces cichoracearum	62708	nad2	QQY98320.1	62708_nad2_QQY98320.1
+Blumeria graminis f. sp. tritici	62690	nad2	QQY98346.1	62690_nad2_QQY98346.1
+Sclerotinia borealis	77105	nad2	YP_009072371.1	77105_nad2_YP_009072371.1
+Erysiphe necator	52586	nad3	QQY98155.1	52586_nad3_QQY98155.1
+Erysiphe pisi	36044	nad3	QQY98233.1	36044_nad3_QQY98233.1
+Golovinomyces cichoracearum	62708	nad3	QQY98316.1	62708_nad3_QQY98316.1
+Blumeria graminis f. sp. tritici	62690	nad3	QQY98345.1	62690_nad3_QQY98345.1
+Sclerotinia borealis	77105	nad3	YP_009072378.1	77105_nad3_YP_009072378.1
+Erysiphe necator	52586	nad4	QQY98162.1	52586_nad4_QQY98162.1
+Erysiphe pisi	36044	nad4	QQY98241.1	36044_nad4_QQY98241.1
+Golovinomyces cichoracearum	62708	nad4	QQY98324.1	62708_nad4_QQY98324.1
+Blumeria graminis f. sp. tritici	62690	nad4	QQY98352.1	62690_nad4_QQY98352.1
+Sclerotinia borealis	77105	nad4	YP_009072344.1	77105_nad4_YP_009072344.1
+Erysiphe necator	52586	nad4L	QQY98150.1	52586_nad4L_QQY98150.1
+Erysiphe pisi	36044	nad4L	QQY98228.1	36044_nad4L_QQY98228.1
+Golovinomyces cichoracearum	62708	nad4L	QQY98319.1	62708_nad4L_QQY98319.1
+Blumeria graminis f. sp. tritici	62690	nad4L	QQY98341.1	62690_nad4L_QQY98341.1
+Sclerotinia borealis	77105	nad4L	YP_009072393.1	77105_nad4L_YP_009072393.1
+Erysiphe necator	52586	nad5	QQY98161.1	52586_nad5_QQY98161.1
+Erysiphe pisi	36044	nad5	QQY98240.1	36044_nad5_QQY98240.1
+Golovinomyces cichoracearum	62708	nad5	QQY98323.1	62708_nad5_QQY98323.1
+Blumeria graminis f. sp. tritici	62690	nad5	QQY98349.1	62690_nad5_QQY98349.1
+Sclerotinia borealis	77105	nad5	YP_009072394.1	77105_nad5_YP_009072394.1
+Erysiphe necator	52586	nad6	QQY98160.1	52586_nad6_QQY98160.1
+Erysiphe pisi	36044	nad6	QQY98239.1	36044_nad6_QQY98239.1
+Golovinomyces cichoracearum	62708	nad6	QQY98322.1	62708_nad6_QQY98322.1
+Blumeria graminis f. sp. tritici	62690	nad6	QQY98348.1	62690_nad6_QQY98348.1
+Sclerotinia borealis	77105	nad6	YP_009072400.1	77105_nad6_YP_009072400.1
+Erysiphe necator	52586	cox1	QQY98153.1	52586_cox1_QQY98153.1
+Erysiphe pisi	36044	cox1	QQY98231.1	36044_cox1_QQY98231.1
+Golovinomyces cichoracearum	62708	cox1	QQY98314.1	62708_cox1_QQY98314.1
+Blumeria graminis f. sp. tritici	62690	cox1	QQY98344.1	62690_cox1_QQY98344.1
+Sclerotinia borealis	77105	cox1	YP_009072327.1	77105_cox1_YP_009072327.1
+Erysiphe necator	52586	cox2	QQY98151.1	52586_cox2_QQY98151.1
+Erysiphe pisi	36044	cox2	QQY98229.1	36044_cox2_QQY98229.1
+Golovinomyces cichoracearum	62708	cox2	QQY98312.1	62708_cox2_QQY98312.1
+Blumeria graminis f. sp. tritici	62690	cox2	QQY98342.1	62690_cox2_QQY98342.1
+Sclerotinia borealis	77105	cox2	YP_009072381.1	77105_cox2_YP_009072381.1
+Erysiphe necator	52586	cox3	QQY98152.1	52586_cox3_QQY98152.1
+Erysiphe pisi	36044	cox3	QQY98230.1	36044_cox3_QQY98230.1
+Golovinomyces cichoracearum	62708	cox3	QQY98313.1	62708_cox3_QQY98313.1
+Blumeria graminis f. sp. tritici	62690	cox3	QQY98343.1	62690_cox3_QQY98343.1
+Sclerotinia borealis	77105	cox3	YP_009072402.1	77105_cox3_YP_009072402.1
+Erysiphe necator	52586	cob	QQY98156.1	52586_cob_QQY98156.1
+Erysiphe pisi	36044	cob	QQY98234.1	36044_cob_QQY98234.1
+Golovinomyces cichoracearum	62708	cob	QQY98317.1	62708_cob_QQY98317.1
+Blumeria graminis f. sp. tritici	62690	cob	QQY98353.1	62690_cob_QQY98353.1
+Sclerotinia borealis	77105	cob	YP_009072347.1	77105_cob_YP_009072347.1
